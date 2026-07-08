@@ -14434,7 +14434,7 @@
   },
   {
     "id": 1783519914045,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:11:54.602Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -14444,15 +14444,18 @@
       "locatie": "ProRail ICB Utrecht",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783519913424_4493.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519914045/vehicle_1783519913424_4493.webp",
-        "size": 324872
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-VJR-10-L.webp",
+        "path": "vehicles/GEEN-VJR-10-L.webp",
+        "sha": "500f2db7319ff49b5afce560696a6c12b297bee9",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-VJR-10-L_thumb.webp",
+        "thumbPath": "GEEN-VJR-10-L_thumb.webp",
+        "thumbSha": "dbca22545c699bc247b342d1ee267b60ae0bb6b8"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:12:55.202Z",
     "rejectedAt": null,
     "rejectReason": null
   },
