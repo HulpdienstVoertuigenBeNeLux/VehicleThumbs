@@ -14623,7 +14623,7 @@
   },
   {
     "id": 1783519923587,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:12:04.473Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -14633,15 +14633,18 @@
       "locatie": "Airport Rotterdam",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783519923064_3642.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519923587/vehicle_1783519923064_3642.webp",
-        "size": 197118
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-8991--91--P-942-RT.webp",
+        "path": "vehicles/17-8991--91--P-942-RT.webp",
+        "sha": "7a9cf2361c805d0758a7aa872134282bfb53ccdc",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-8991--91--P-942-RT_thumb.webp",
+        "thumbPath": "17-8991--91--P-942-RT_thumb.webp",
+        "thumbSha": "3c1adf965cc4cfd607d1f858a46c4fb178e76e03"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:14:29.564Z",
     "rejectedAt": null,
     "rejectReason": null
   }
