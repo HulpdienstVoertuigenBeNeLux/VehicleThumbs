@@ -12655,7 +12655,7 @@
   },
   {
     "id": 1783503936599,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:45:37.513Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12665,15 +12665,18 @@
       "locatie": "Den Dolder",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783503935715_9237.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503936599/vehicle_1783503935715_9237.webp",
-        "size": 562688
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/09-6501-12-ZDH-9.webp",
+        "path": "vehicles/09-6501-12-ZDH-9.webp",
+        "sha": "b092de1627945096d3078c672903b1084f54eaa2",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/09-6501-12-ZDH-9_thumb.webp",
+        "thumbPath": "09-6501-12-ZDH-9_thumb.webp",
+        "thumbSha": "d53ac77448ac3155c42103fc539c910e9b231fc6"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:45:59.236Z",
     "rejectedAt": null,
     "rejectReason": null
   },
