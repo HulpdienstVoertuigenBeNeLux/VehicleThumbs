@@ -16267,5 +16267,77 @@
     "approvedAt": "2026-07-08T14:48:02.132Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783522203531,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:50:05.012Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "56-BJD-8",
+      "roepnummer": "04-2285",
+      "type": "Haakarmvoertuig",
+      "locatie": "Ommen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522202984_3940.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522203531/vehicle_1783522202984_3940.webp",
+        "size": 209684
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522205317,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:50:06.762Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BX-GZ-20",
+      "roepnummer": "04-2260",
+      "type": "Schuimblusvoertuig",
+      "locatie": "Ommen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522205012_2765.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522205317/vehicle_1783522205012_2765.webp",
+        "size": 249226
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522207010,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:50:08.441Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "69-BDL-5",
+      "roepnummer": "04-2242",
+      "type": "Tankautospuit terreinvaardig natuurbrandbestrijding",
+      "locatie": "Ommen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522206762_384.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522207010/vehicle_1783522206762_384.webp",
+        "size": 288708
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
