@@ -12274,7 +12274,7 @@
   },
   {
     "id": 1783503620656,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:40:22.071Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12284,15 +12284,18 @@
       "locatie": "Dow Terneuzen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783503620354_6454.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503620656/vehicle_1783503620354_6454.webp",
-        "size": 385724
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-8108-V-16-KSV.webp",
+        "path": "vehicles/19-8108-V-16-KSV.webp",
+        "sha": "ea7b6084744f300684093e0cc567dd1af4564403",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-8108-V-16-KSV_thumb.webp",
+        "thumbPath": "19-8108-V-16-KSV_thumb.webp",
+        "thumbSha": "0a21f0eba42ad12efc18a2f74b6cd8069e81c0a9"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:41:42.498Z",
     "rejectedAt": null,
     "rejectReason": null
   },
