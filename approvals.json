@@ -15310,7 +15310,7 @@
   },
   {
     "id": 1783521139241,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:32:20.561Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15320,15 +15320,18 @@
       "locatie": "IJmuiden",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783521139046_4509.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783521139241/vehicle_1783521139046_4509.webp",
-        "size": 308652
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/Binnentoeleidingskanaal--IJmuiden-P44.webp",
+        "path": "vehicles/Binnentoeleidingskanaal--IJmuiden-P44.webp",
+        "sha": "9a019d2b643427f28972736595a955ee1826cd64",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/Binnentoeleidingskanaal--IJmuiden-P44_thumb.webp",
+        "thumbPath": "Binnentoeleidingskanaal--IJmuiden-P44_thumb.webp",
+        "thumbSha": "1cfa90cce34a77ed16c51b85c46488f67d5e4ddf"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:33:04.693Z",
     "rejectedAt": null,
     "rejectReason": null
   },
