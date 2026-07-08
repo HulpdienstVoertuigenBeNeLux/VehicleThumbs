@@ -13255,5 +13255,29 @@
     "approvedAt": "2026-07-08T09:59:20.392Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783504823785,
+    "status": "pending",
+    "submittedAt": "2026-07-08T10:00:24.903Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "K-414-RH",
+      "roepnummer": "17-102",
+      "type": "Ambulance hoogcomplexe zorg",
+      "locatie": "Barendrecht Breslau",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783504823484_122.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783504823785/vehicle_1783504823484_122.webp",
+        "size": 234074
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
