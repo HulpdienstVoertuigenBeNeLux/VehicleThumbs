@@ -13099,7 +13099,7 @@
   },
   {
     "id": 1783504745730,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:59:06.161Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -13109,15 +13109,18 @@
       "locatie": "IJmuiden ( RB Landelijk )",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783504744786_6603.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783504745730/vehicle_1783504744786_6603.webp",
-        "size": 351010
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/36-0060-V-74-LXT.webp",
+        "path": "vehicles/36-0060-V-74-LXT.webp",
+        "sha": "d0e16c74fb1325ad6b125be9059357ecf8d85880",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/36-0060-V-74-LXT_thumb.webp",
+        "thumbPath": "36-0060-V-74-LXT_thumb.webp",
+        "thumbSha": "588a68196dfd486ddc17027b25186ddc6450bfee"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T10:00:27.412Z",
     "rejectedAt": null,
     "rejectReason": null
   },
