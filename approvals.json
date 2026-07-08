@@ -16072,7 +16072,7 @@
   },
   {
     "id": 1783522061360,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:47:42.722Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -16082,15 +16082,18 @@
       "locatie": "Zuidhorn",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783522061201_1649.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522061360/vehicle_1783522061201_1649.webp",
-        "size": 312352
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/01-1382-BX-NZ-99.webp",
+        "path": "vehicles/01-1382-BX-NZ-99.webp",
+        "sha": "39cc4908df14c220f3c32b526f1b1c684c65ada2",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/01-1382-BX-NZ-99_thumb.webp",
+        "thumbPath": "01-1382-BX-NZ-99_thumb.webp",
+        "thumbSha": "bfbf8c6b04c3d0a82fef4c3663d42945fea99018"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:48:23.982Z",
     "rejectedAt": null,
     "rejectReason": null
   },
