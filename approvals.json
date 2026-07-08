@@ -13714,7 +13714,7 @@
   },
   {
     "id": 1783518055140,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T13:40:55.480Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -13724,15 +13724,18 @@
       "locatie": "Groene Tuin",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783518054231_7069.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518055140/vehicle_1783518054231_7069.webp",
-        "size": 384368
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-3731-55-BDL-2.webp",
+        "path": "vehicles/17-3731-55-BDL-2.webp",
+        "sha": "4d7ac91637da248bea2a12d577c673fb0b460207",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-3731-55-BDL-2_thumb.webp",
+        "thumbPath": "17-3731-55-BDL-2_thumb.webp",
+        "thumbSha": "0f5e3eab2e55bfd5d6984b009075e409aaefae66"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T13:41:31.014Z",
     "rejectedAt": null,
     "rejectReason": null
   },
