@@ -11572,7 +11572,7 @@
   },
   {
     "id": 1783501680943,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:08:01.799Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11582,15 +11582,18 @@
       "locatie": "Medische Dienst Alphen a/d Rijn",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783501680201_6012.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783501680943/vehicle_1783501680201_6012.webp",
-        "size": 235484
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/30-305-G-626-XG.webp",
+        "path": "vehicles/30-305-G-626-XG.webp",
+        "sha": "70b0748a34220febb6ac3f533dac52b07cde34be",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/30-305-G-626-XG_thumb.webp",
+        "thumbPath": "30-305-G-626-XG_thumb.webp",
+        "thumbSha": "eaec84f8389f4aa7ef6f709f542bd48d1d82b793"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:08:47.594Z",
     "rejectedAt": null,
     "rejectReason": null
   },
