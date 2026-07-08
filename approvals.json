@@ -13786,7 +13786,7 @@
   },
   {
     "id": 1783518056774,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T13:40:57.311Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -13796,15 +13796,18 @@
       "locatie": "Alblasserdam",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783518055971_600.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518056774/vehicle_1783518055971_600.webp",
-        "size": 352924
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/18-9503-V-851-BB.webp",
+        "path": "vehicles/18-9503-V-851-BB.webp",
+        "sha": "860d65ceb1e274fdcedf5d8e749d7493fa6ef0aa",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/18-9503-V-851-BB_thumb.webp",
+        "thumbPath": "18-9503-V-851-BB_thumb.webp",
+        "thumbSha": "77b2857d94bee271522f0db0571efc883f5494ec"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T13:41:04.768Z",
     "rejectedAt": null,
     "rejectReason": null
   }
