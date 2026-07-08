@@ -14569,7 +14569,7 @@
   },
   {
     "id": 1783519919985,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:12:01.234Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -14579,15 +14579,18 @@
       "locatie": "Almelo",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783519919673_4590.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519919985/vehicle_1783519919673_4590.webp",
-        "size": 384216
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/05-154-H-465-PJ.webp",
+        "path": "vehicles/05-154-H-465-PJ.webp",
+        "sha": "10509235d5bf97f32919bc669241abcde587de09",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/05-154-H-465-PJ_thumb.webp",
+        "thumbPath": "05-154-H-465-PJ_thumb.webp",
+        "thumbSha": "59235e2779db817b2b33d31b4eb2ad38f0e1b122"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:14:02.897Z",
     "rejectedAt": null,
     "rejectReason": null
   },
