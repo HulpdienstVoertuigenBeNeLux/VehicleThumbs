@@ -12091,7 +12091,7 @@
   },
   {
     "id": 1783502946413,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:29:06.908Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12101,15 +12101,18 @@
       "locatie": "Middelburg VRZ Hoofdkantoor",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502945666_371.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502946413/vehicle_1783502945666_371.webp",
-        "size": 336632
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-8596-RS-013-D.webp",
+        "path": "vehicles/19-8596-RS-013-D.webp",
+        "sha": "37bbc977770d9d56cf5fdf9a17f3e65f6569727c",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-8596-RS-013-D_thumb.webp",
+        "thumbPath": "19-8596-RS-013-D_thumb.webp",
+        "thumbSha": "3755aa4889b2d9e06ab953ddd49b902fddac2df4"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:30:04.887Z",
     "rejectedAt": null,
     "rejectReason": null
   },
