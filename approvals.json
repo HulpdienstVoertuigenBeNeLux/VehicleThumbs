@@ -15730,7 +15730,7 @@
   },
   {
     "id": 1783521717222,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:41:57.795Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15740,15 +15740,18 @@
       "locatie": "Hoogezand-Sappemeer",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783521716568_3272.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783521717222/vehicle_1783521716568_3272.webp",
-        "size": 417154
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/01-2131-BV-DZ-28.webp",
+        "path": "vehicles/01-2131-BV-DZ-28.webp",
+        "sha": "e79dbfdaed1a5635bfb89e8ebe125651d45be536",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/01-2131-BV-DZ-28_thumb.webp",
+        "thumbPath": "01-2131-BV-DZ-28_thumb.webp",
+        "thumbSha": "e0512567ae6b6954ec936c70617b74f7adcaaadd"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:44:33.303Z",
     "rejectedAt": null,
     "rejectReason": null
   },
