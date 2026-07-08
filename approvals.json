@@ -13762,7 +13762,7 @@
   },
   {
     "id": 1783518055919,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T13:40:55.971Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -13772,15 +13772,18 @@
       "locatie": "Ommen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783518055727_1751.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518055919/vehicle_1783518055727_1751.webp",
-        "size": 52198
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/04-2265-GEEN.webp",
+        "path": "vehicles/04-2265-GEEN.webp",
+        "sha": "2b7fe9685bb55dae47c50c8b149f83e4e5a0c6d4",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/04-2265-GEEN_thumb.webp",
+        "thumbPath": "04-2265-GEEN_thumb.webp",
+        "thumbSha": "7480e84a9a8556dcbcf6d989112a4a6bc65c31b1"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T13:41:14.332Z",
     "rejectedAt": null,
     "rejectReason": null
   },
