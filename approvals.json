@@ -12067,7 +12067,7 @@
   },
   {
     "id": 1783502944757,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:29:05.666Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12077,15 +12077,18 @@
       "locatie": "Goes Oranjeweg",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502944439_2587.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502944757/vehicle_1783502944439_2587.webp",
-        "size": 421498
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-8704-RT-529-F.webp",
+        "path": "vehicles/19-8704-RT-529-F.webp",
+        "sha": "2d581b8cb1cf7e385a220db2afc082a784f5c50b",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-8704-RT-529-F_thumb.webp",
+        "thumbPath": "19-8704-RT-529-F_thumb.webp",
+        "thumbSha": "b86ec53a3176586a4b438188e51a55f80a4fb45a"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:30:10.611Z",
     "rejectedAt": null,
     "rejectReason": null
   },
