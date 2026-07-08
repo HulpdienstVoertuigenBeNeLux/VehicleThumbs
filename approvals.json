@@ -12019,7 +12019,7 @@
   },
   {
     "id": 1783502941378,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:29:03.079Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12029,15 +12029,18 @@
       "locatie": "Oud Gastel",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502941357_6633.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502941378/vehicle_1783502941357_6633.webp",
-        "size": 500520
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/20-1204-ZB-433-V.webp",
+        "path": "vehicles/20-1204-ZB-433-V.webp",
+        "sha": "e691ec338853033e4f832732e95c9d91094e90d0",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/20-1204-ZB-433-V_thumb.webp",
+        "thumbPath": "20-1204-ZB-433-V_thumb.webp",
+        "thumbSha": "c8c45c94ec70b09a875b911d24094d2368fa5747"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:30:18.689Z",
     "rejectedAt": null,
     "rejectReason": null
   },
