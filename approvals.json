@@ -11626,7 +11626,7 @@
   },
   {
     "id": 1783501683676,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:08:05.320Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11636,15 +11636,18 @@
       "locatie": "Nationaal Logistiek Centrum",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783501683624_1205.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783501683676/vehicle_1783501683624_1205.webp",
-        "size": 311570
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/30-601-ONBEKEND.webp",
+        "path": "vehicles/30-601-ONBEKEND.webp",
+        "sha": "f34e1f121ea5053fdeb49e968b4d5364cb4010c3",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/30-601-ONBEKEND_thumb.webp",
+        "thumbPath": "30-601-ONBEKEND_thumb.webp",
+        "thumbSha": "df0772b816d1d256082dc146baf658d369ec4d2d"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:09:04.343Z",
     "rejectedAt": null,
     "rejectReason": null
   }
