@@ -14377,5 +14377,245 @@
     "approvedAt": "2026-07-08T13:59:11.170Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783519912077,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:11:52.368Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "6-KJX-13",
+      "roepnummer": "23-4405",
+      "type": "Dienstbus",
+      "locatie": "Weert",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519911153_438.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519912077/vehicle_1783519911153_438.webp",
+        "size": 354148
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519912689,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:11:53.424Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "Koopmansdank",
+      "roepnummer": "35-7141",
+      "type": "Reddingsmaatschappij vaartuig",
+      "locatie": "Neeltje Jans-Buiten",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519912368_8861.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519912689/vehicle_1783519912368_8861.webp",
+        "size": 234894
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519914045,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:11:54.602Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VJR-10-L",
+      "roepnummer": "GEEN",
+      "type": "Dienstbus Incidenten Bestrijding",
+      "locatie": "ProRail ICB Utrecht",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519913424_4493.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519914045/vehicle_1783519913424_4493.webp",
+        "size": 324872
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519915035,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:11:55.874Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VJN-64-N",
+      "roepnummer": "GEEN",
+      "type": "Dienstbus Incidenten Bestrijding",
+      "locatie": "ProRail ICB Zwolle",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519914602_8035.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519915035/vehicle_1783519914602_8035.webp",
+        "size": 330396
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519916635,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:11:57.139Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VRG-37-D",
+      "roepnummer": "04-701",
+      "type": "Huisarts voertuig",
+      "locatie": "Spoed HAP Zwolle",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519915874_6864.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519916635/vehicle_1783519915874_6864.webp",
+        "size": 394346
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519917749,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:11:58.459Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "J-859-LF",
+      "roepnummer": "04-403",
+      "type": "Ambulance laagcomplexe zorg",
+      "locatie": "Zwolle",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519917139_7275.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519917749/vehicle_1783519917139_7275.webp",
+        "size": 452102
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519919140,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:11:59.673Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "K-527-RX",
+      "roepnummer": "04-103",
+      "type": "Ambulance hoogcomplexe zorg",
+      "locatie": "Zwolle",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519918459_315.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519919140/vehicle_1783519918459_315.webp",
+        "size": 300946
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519919985,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:12:01.234Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "H-465-PJ",
+      "roepnummer": "05-154",
+      "type": "Ambulance hoogcomplexe zorg",
+      "locatie": "Almelo",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519919673_4590.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519919985/vehicle_1783519919673_4590.webp",
+        "size": 384216
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519922178,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:12:03.064Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "T-592-RN",
+      "roepnummer": "01-304",
+      "type": "Pediatrische intensive care unit",
+      "locatie": "Groningen Zuid",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519921234_6481.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519922178/vehicle_1783519921234_6481.webp",
+        "size": 362668
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519923587,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:12:04.473Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "P-942-RT",
+      "roepnummer": "17-8991 (91)",
+      "type": "On scene commander",
+      "locatie": "Airport Rotterdam",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519923064_3642.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519923587/vehicle_1783519923064_3642.webp",
+        "size": 197118
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
