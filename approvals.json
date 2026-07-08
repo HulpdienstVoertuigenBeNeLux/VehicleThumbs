@@ -12139,7 +12139,7 @@
   },
   {
     "id": 1783502948550,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:29:09.292Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12149,15 +12149,18 @@
       "locatie": "Vlissingen-Olympiaweg",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502948135_8865.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502948550/vehicle_1783502948135_8865.webp",
-        "size": 283846
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-4461-GEEN.webp",
+        "path": "vehicles/19-4461-GEEN.webp",
+        "sha": "ce2ca3d78104ff016b7da35384b21efb3a4e1c83",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-4461-GEEN_thumb.webp",
+        "thumbPath": "19-4461-GEEN_thumb.webp",
+        "thumbSha": "1e955ff01ea9e0f21767102cc01d217781f90a95"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:29:52.852Z",
     "rejectedAt": null,
     "rejectReason": null
   }
