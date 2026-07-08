@@ -12460,5 +12460,245 @@
     "approvedAt": "2026-07-08T09:42:47.905Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783503923653,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:24.764Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BZ-BD-93",
+      "roepnummer": "19-4510",
+      "type": "Waterongevallenvoertuig",
+      "locatie": "Middelburg Stromenweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503923233_5131.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503923653/vehicle_1783503923233_5131.webp",
+        "size": 326280
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503925240,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:26.506Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GB-903-B",
+      "roepnummer": "19-4503",
+      "type": "Dienstbus",
+      "locatie": "Middelburg Torenweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503924764_4540.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503925240/vehicle_1783503924764_4540.webp",
+        "size": 477470
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503927450,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:28.058Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BX-VH-81",
+      "roepnummer": "19-4431",
+      "type": "Tankautospuit",
+      "locatie": "Vlissingen-Olympiaweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503926506_8737.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503927450/vehicle_1783503926506_8737.webp",
+        "size": 286920
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503928952,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:29.399Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "2-ZTF-25",
+      "roepnummer": "19-4402",
+      "type": "Dienstbus",
+      "locatie": "Vlissingen-Souburg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503928058_3629.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503928952/vehicle_1783503928058_3629.webp",
+        "size": 179382
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503929575,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:30.808Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "ZB-658-B",
+      "roepnummer": "19-4401",
+      "type": "Dienstbus",
+      "locatie": "Vlissingen-Olympiaweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503929399_3551.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503929575/vehicle_1783503929399_3551.webp",
+        "size": 269810
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503931564,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:32.514Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "09-HJK-4",
+      "roepnummer": "09-9017",
+      "type": "Verkenningsvoertuig team digitale verkenning",
+      "locatie": "Utrecht Leidsche Rijn",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503930808_1957.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503931564/vehicle_1783503930808_1957.webp",
+        "size": 436350
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503932749,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:34.042Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "V-14-GFL",
+      "roepnummer": "09-9001",
+      "type": "Gereedschap/materieelvoertuig",
+      "locatie": "Hoofdkantoor VRU",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503932514_8331.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503932749/vehicle_1783503932514_8331.webp",
+        "size": 272434
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503934759,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:35.715Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "95-VR-FN",
+      "roepnummer": "09-6680",
+      "type": "Gereedschap/materieelvoertuig",
+      "locatie": "Zeist",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503934042_9482.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503934759/vehicle_1783503934042_9482.webp",
+        "size": 526564
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503936599,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:37.513Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "12-ZDH-9",
+      "roepnummer": "09-6501",
+      "type": "Dienstbus",
+      "locatie": "Den Dolder",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503935715_9237.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503936599/vehicle_1783503935715_9237.webp",
+        "size": 562688
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503938078,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:45:39.153Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "64-LPH-7",
+      "roepnummer": "19-222",
+      "type": "Ambulance hoogcomplexe zorg",
+      "locatie": "Vlissingen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503937513_5274.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503938078/vehicle_1783503937513_5274.webp",
+        "size": 484380
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
