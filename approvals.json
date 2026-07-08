@@ -14407,7 +14407,7 @@
   },
   {
     "id": 1783519912689,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:11:53.424Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -14417,15 +14417,18 @@
       "locatie": "Neeltje Jans-Buiten",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783519912368_8861.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519912689/vehicle_1783519912368_8861.webp",
-        "size": 234894
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/35-7141-Koopmansdank.webp",
+        "path": "vehicles/35-7141-Koopmansdank.webp",
+        "sha": "440a8b7a515c3c2f6a485ef7706075f290924556",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/35-7141-Koopmansdank_thumb.webp",
+        "thumbPath": "35-7141-Koopmansdank_thumb.webp",
+        "thumbSha": "a88a0950b9e7c2310a37816d497126f48bd21169"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:12:47.335Z",
     "rejectedAt": null,
     "rejectReason": null
   },
