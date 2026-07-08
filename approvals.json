@@ -11545,7 +11545,7 @@
   },
   {
     "id": 1783497552294,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T07:59:14.640Z",
     "copyrightName": "xRaxyyy",
     "vehicleData": {
@@ -11555,15 +11555,18 @@
       "locatie": "Leek",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783497551856_2592.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783497552294/vehicle_1783497551856_2592.webp",
-        "size": 542006
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/01-1003-ZB-105-K.webp",
+        "path": "vehicles/01-1003-ZB-105-K.webp",
+        "sha": "777877a5737cb841a2f7c38356f3b8012b6985b3",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/01-1003-ZB-105-K_thumb.webp",
+        "thumbPath": "01-1003-ZB-105-K_thumb.webp",
+        "thumbSha": "6c401a8a1501764fb5e2bc2a645edd617287ceaa"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T07:59:22.162Z",
     "rejectedAt": null,
     "rejectReason": null
   }
