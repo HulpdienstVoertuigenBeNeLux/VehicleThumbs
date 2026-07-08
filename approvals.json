@@ -16348,5 +16348,29 @@
     "approvedAt": "2026-07-08T14:50:13.328Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783524770314,
+    "status": "pending",
+    "submittedAt": "2026-07-08T15:32:51.884Z",
+    "copyrightName": "ThomaxDW",
+    "vehicleData": {
+      "kenteken": "VG-112-R",
+      "roepnummer": "14-7163",
+      "type": "Snel inzetbaar voertuig",
+      "locatie": "Hilversum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783524769561_8250.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783524770314/vehicle_1783524769561_8250.webp",
+        "size": 711368
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
