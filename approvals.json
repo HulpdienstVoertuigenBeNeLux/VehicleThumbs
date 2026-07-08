@@ -13864,7 +13864,7 @@
   },
   {
     "id": 1783518519203,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T13:48:40.615Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -13874,15 +13874,18 @@
       "locatie": "Gorinchem",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783518519053_5659.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518519203/vehicle_1783518519053_5659.webp",
-        "size": 372438
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/18-8151-91-BTV-4.webp",
+        "path": "vehicles/18-8151-91-BTV-4.webp",
+        "sha": "bdf18f46f4100b0842ac7bc89cbe89840a2c3e82",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/18-8151-91-BTV-4_thumb.webp",
+        "thumbPath": "18-8151-91-BTV-4_thumb.webp",
+        "thumbSha": "8053d840eb7ac1fd9a14f1688d150bda73052c29"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T13:50:21.275Z",
     "rejectedAt": null,
     "rejectReason": null
   },
