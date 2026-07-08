@@ -15652,7 +15652,7 @@
   },
   {
     "id": 1783521461803,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:37:42.240Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15662,15 +15662,18 @@
       "locatie": "Nieuwe Pekela",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783521461109_2910.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783521461803/vehicle_1783521461109_2910.webp",
-        "size": 226046
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/01-2401-GJN-65-B.webp",
+        "path": "vehicles/01-2401-GJN-65-B.webp",
+        "sha": "ad20201b3a19b3f5a63bb314ec762adf8ce8a642",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/01-2401-GJN-65-B_thumb.webp",
+        "thumbPath": "01-2401-GJN-65-B_thumb.webp",
+        "thumbSha": "238ad09a9eb4a950e16ac5b5b0d5c6a27186241b"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:38:24.501Z",
     "rejectedAt": null,
     "rejectReason": null
   },
