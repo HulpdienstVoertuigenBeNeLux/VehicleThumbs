@@ -11677,7 +11677,7 @@
   },
   {
     "id": 1783502605778,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:23:26.556Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11687,15 +11687,18 @@
       "locatie": "Breskens ( RB WZV )",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502605082_7071.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502605778/vehicle_1783502605082_7071.webp",
-        "size": 264310
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/36-3819-55-59-YT.webp",
+        "path": "vehicles/36-3819-55-59-YT.webp",
+        "sha": "a73e901d393e112e909b361f11cea69ef04cd7ab",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/36-3819-55-59-YT_thumb.webp",
+        "thumbPath": "36-3819-55-59-YT_thumb.webp",
+        "thumbSha": "47bb89a8f8438a41ee1bc52dd8b7028b1621d909"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:25:09.393Z",
     "rejectedAt": null,
     "rejectReason": null
   },
