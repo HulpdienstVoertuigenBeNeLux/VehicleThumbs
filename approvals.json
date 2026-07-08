@@ -11773,7 +11773,7 @@
   },
   {
     "id": 1783502612421,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:23:33.257Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11783,15 +11783,18 @@
       "locatie": "Refinery Vlissingen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502611583_6466.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502612421/vehicle_1783502611583_6466.webp",
-        "size": 504434
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-4991-T-696-PP.webp",
+        "path": "vehicles/19-4991-T-696-PP.webp",
+        "sha": "1c69669cb49548f518edc120ea8f6ac6b26c2522",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-4991-T-696-PP_thumb.webp",
+        "thumbPath": "19-4991-T-696-PP_thumb.webp",
+        "thumbSha": "219ec8a08ebe7392dc10040382926ac96600d397"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:24:23.032Z",
     "rejectedAt": null,
     "rejectReason": null
   },
