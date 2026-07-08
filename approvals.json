@@ -12043,7 +12043,7 @@
   },
   {
     "id": 1783502943567,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:29:04.439Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12053,15 +12053,18 @@
       "locatie": "Goes Oranjeweg",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502943079_8921.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502943567/vehicle_1783502943079_8921.webp",
-        "size": 331396
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-8900-RV-212-Z.webp",
+        "path": "vehicles/19-8900-RV-212-Z.webp",
+        "sha": "a1fbdf4153d98fd22c3d6a1c0979b5d4fde5702f",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-8900-RV-212-Z_thumb.webp",
+        "thumbPath": "19-8900-RV-212-Z_thumb.webp",
+        "thumbSha": "0b68ea15d3fb4be6cb2e3c73b5d9f49e94479e7a"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:30:14.529Z",
     "rejectedAt": null,
     "rejectReason": null
   },
