@@ -12925,7 +12925,7 @@
   },
   {
     "id": 1783504123934,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:48:44.645Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12935,15 +12935,18 @@
       "locatie": "Dordrecht",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783504123305_7071.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783504123934/vehicle_1783504123305_7071.webp",
-        "size": 278770
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/18-871-TV-633-V.webp",
+        "path": "vehicles/18-871-TV-633-V.webp",
+        "sha": "37e5f0afad7ac9ad06d0729ccbe814be4586ff9c",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/18-871-TV-633-V_thumb.webp",
+        "thumbPath": "18-871-TV-633-V_thumb.webp",
+        "thumbSha": "e17a61e22110424b174bc38014bc811b2950b9e0"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:49:10.859Z",
     "rejectedAt": null,
     "rejectReason": null
   },
