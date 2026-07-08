@@ -11869,7 +11869,7 @@
   },
   {
     "id": 1783502617667,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:23:39.169Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11879,15 +11879,18 @@
       "locatie": "Gilze-Rijen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502617664_2181.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502617667/vehicle_1783502617664_2181.webp",
-        "size": 260226
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/28-4293-DM-953-D.webp",
+        "path": "vehicles/28-4293-DM-953-D.webp",
+        "sha": "53942382d221719919a3192567784c3475e49d24",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/28-4293-DM-953-D_thumb.webp",
+        "thumbPath": "28-4293-DM-953-D_thumb.webp",
+        "thumbSha": "6d70729258904fe8ba1b9dbd4751301a24e93d65"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:23:46.728Z",
     "rejectedAt": null,
     "rejectReason": null
   }
