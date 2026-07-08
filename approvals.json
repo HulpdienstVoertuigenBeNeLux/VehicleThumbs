@@ -14674,7 +14674,7 @@
   },
   {
     "id": 1783520309378,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:18:29.896Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -14684,15 +14684,18 @@
       "locatie": "Delfzijl",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783520308686_8677.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520309378/vehicle_1783520308686_8677.webp",
-        "size": 397406
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/Handelshaven--Delfzijl-P45.webp",
+        "path": "vehicles/Handelshaven--Delfzijl-P45.webp",
+        "sha": "0950dd83af1115e40e6b2397d4e056b65172beb2",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/Handelshaven--Delfzijl-P45_thumb.webp",
+        "thumbPath": "Handelshaven--Delfzijl-P45_thumb.webp",
+        "thumbSha": "87d6431eb7f9c169dbab9eb75ecb37e496767650"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:20:36.611Z",
     "rejectedAt": null,
     "rejectReason": null
   },
