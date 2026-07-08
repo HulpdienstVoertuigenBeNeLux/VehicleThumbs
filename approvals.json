@@ -15214,7 +15214,7 @@
   },
   {
     "id": 1783521133048,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:32:14.605Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15224,21 +15224,24 @@
       "locatie": "Tubbergen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783521133037_8255.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783521133048/vehicle_1783521133037_8255.webp",
-        "size": 427468
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/05-2401-RS-233-F.webp",
+        "path": "vehicles/05-2401-RS-233-F.webp",
+        "sha": "28bc36e548a14abf5e97cfd6bca6623f2a24ce70",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/05-2401-RS-233-F_thumb.webp",
+        "thumbPath": "05-2401-RS-233-F_thumb.webp",
+        "thumbSha": "d2e7b32d50ca823f910f039631a8fa3e5423ce58"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:33:29.581Z",
     "rejectedAt": null,
     "rejectReason": null
   },
   {
     "id": 1783521135288,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:32:16.106Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15248,15 +15251,18 @@
       "locatie": "Losser",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783521134605_9719.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783521135288/vehicle_1783521134605_9719.webp",
-        "size": 258436
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/05-2261-61-BNL-2.webp",
+        "path": "vehicles/05-2261-61-BNL-2.webp",
+        "sha": "a6d698c2d927685f59f2600ae5e968c5bfd7c044",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/05-2261-61-BNL-2_thumb.webp",
+        "thumbPath": "05-2261-61-BNL-2_thumb.webp",
+        "thumbSha": "6947487966c1e1f903cc2188418ebca428f075eb"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:33:22.957Z",
     "rejectedAt": null,
     "rejectReason": null
   },
