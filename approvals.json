@@ -11542,5 +11542,101 @@
     "approvedAt": "2026-07-07T17:51:38.924Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783501678690,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:08:00.201Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VP-661-F",
+      "roepnummer": "30-304",
+      "type": "Rapid responder Rode Kruis",
+      "locatie": "Medische Dienst Alphen a/d Rijn",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783501678648_6846.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783501678690/vehicle_1783501678648_6846.webp",
+        "size": 256888
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783501680943,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:08:01.799Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "G-626-XG",
+      "roepnummer": "30-305",
+      "type": "Rapid responder Rode Kruis",
+      "locatie": "Medische Dienst Alphen a/d Rijn",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783501680201_6012.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783501680943/vehicle_1783501680201_6012.webp",
+        "size": 235484
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783501682342,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:08:03.624Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "3-VDF-76",
+      "roepnummer": "90-07",
+      "type": "Commando voertuig Rode Kruis",
+      "locatie": "ONBEKEND",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783501681799_1467.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783501682342/vehicle_1783501681799_1467.webp",
+        "size": 276270
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783501683676,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:08:05.320Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "ONBEKEND",
+      "roepnummer": "30-601",
+      "type": "Rapid responder Rode Kruis",
+      "locatie": "Nationaal Logistiek Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783501683624_1205.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783501683676/vehicle_1783501683624_1205.webp",
+        "size": 311570
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
