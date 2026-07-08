@@ -11653,7 +11653,7 @@
   },
   {
     "id": 1783502603882,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:23:25.082Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11663,15 +11663,18 @@
       "locatie": "Goes",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502603792_9886.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502603882/vehicle_1783502603792_9886.webp",
-        "size": 232284
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-831-GX-697-K.webp",
+        "path": "vehicles/19-831-GX-697-K.webp",
+        "sha": "2925f5a5b13040f6e5fcecbcc7c83f6e50cb333e",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-831-GX-697-K_thumb.webp",
+        "thumbPath": "19-831-GX-697-K_thumb.webp",
+        "thumbSha": "75433fac2c94dd484536cbe184aa5f8dd010ce2c"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:25:23.497Z",
     "rejectedAt": null,
     "rejectReason": null
   },
