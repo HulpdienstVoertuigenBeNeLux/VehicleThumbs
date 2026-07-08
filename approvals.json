@@ -12190,5 +12190,245 @@
     "approvedAt": "2026-07-08T09:29:52.852Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783503616754,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:17.289Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "76-BNL-1",
+      "roepnummer": "19-8184",
+      "type": "Haakarmvoertuig",
+      "locatie": "Dow Terneuzen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503615769_3612.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503616754/vehicle_1783503615769_3612.webp",
+        "size": 252224
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503618073,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:18.680Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "78-BPG-7",
+      "roepnummer": "19-8163",
+      "type": "Schuimblusvoertuig met blusarm",
+      "locatie": "Dow Terneuzen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503617289_5335.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503618073/vehicle_1783503617289_5335.webp",
+        "size": 292372
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503618872,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:20.354Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "19-8120",
+      "type": "Basis ontsmetting haakarmbak",
+      "locatie": "Dow Terneuzen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503618680_9003.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503618872/vehicle_1783503618680_9003.webp",
+        "size": 377602
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503620656,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:22.071Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "V-16-KSV",
+      "roepnummer": "19-8108",
+      "type": "Verkenningsvoertuig IBGS",
+      "locatie": "Dow Terneuzen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503620354_6454.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503620656/vehicle_1783503620354_6454.webp",
+        "size": 385724
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503622868,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:23.763Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "-",
+      "roepnummer": "MCH",
+      "type": "Bijzondere Materialen Haakarmbak",
+      "locatie": "Refinery Vlissingen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503622071_2708.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503622868/vehicle_1783503622071_2708.webp",
+        "size": 533004
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503624715,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:25.209Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BX-PB-09",
+      "roepnummer": "19-4910",
+      "type": "Waterongevallenvoertuig",
+      "locatie": "Goes Oranjeweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503623763_8576.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503624715/vehicle_1783503623763_8576.webp",
+        "size": 302254
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503625731,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:26.499Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "T-226-RV",
+      "roepnummer": "19-4903",
+      "type": "Dienstbus",
+      "locatie": "Goes Oranjeweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503625209_8621.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503625731/vehicle_1783503625209_8621.webp",
+        "size": 187220
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503626530,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:27.943Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GB-905-B",
+      "roepnummer": "19-4604",
+      "type": "Verkenningsvoertuig IBGS",
+      "locatie": "Zoutelande",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503626499_8381.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503626530/vehicle_1783503626499_8381.webp",
+        "size": 415470
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503628877,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:29.108Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "KP-022-Z",
+      "roepnummer": "19-4595",
+      "type": "Officier van dienst Brandweer",
+      "locatie": "Middelburg Stromenweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503627943_488.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503628877/vehicle_1783503627943_488.webp",
+        "size": 219588
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783503629410,
+    "status": "pending",
+    "submittedAt": "2026-07-08T09:40:30.923Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "70-BDD-3",
+      "roepnummer": "19-8035",
+      "type": "Tankautospuit",
+      "locatie": "Middelburg-Noord",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783503629109_1226.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503629410/vehicle_1783503629109_1226.webp",
+        "size": 559568
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
