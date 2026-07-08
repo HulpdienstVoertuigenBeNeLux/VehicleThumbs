@@ -15997,5 +15997,245 @@
     "approvedAt": "2026-07-08T14:42:34.493Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783522057361,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:38.429Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "16-BNB-8",
+      "roepnummer": "01-1833",
+      "type": "Tankautospuit",
+      "locatie": "Groningen Hoofdpost",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522057208_8999.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522057361/vehicle_1783522057208_8999.webp",
+        "size": 206632
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522059245,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:39.706Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "72-BVT-3",
+      "roepnummer": "01-1851",
+      "type": "Hoogwerker",
+      "locatie": "Groningen Vinkhuizen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522058429_4443.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522059245/vehicle_1783522058429_4443.webp",
+        "size": 206320
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522060394,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:41.201Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "4-XFG-13",
+      "roepnummer": "01-1801",
+      "type": "Dienstauto",
+      "locatie": "Groningen Hoofdpost",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522059706_8296.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522060394/vehicle_1783522059706_8296.webp",
+        "size": 297872
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522061360,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:42.722Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BX-NZ-99",
+      "roepnummer": "01-1382",
+      "type": "Haakarmvoertuig",
+      "locatie": "Zuidhorn",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522061201_1649.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522061360/vehicle_1783522061201_1649.webp",
+        "size": 312352
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522063592,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:43.915Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VBK-41-D",
+      "roepnummer": "01-0196",
+      "type": "Team brandonderzoek",
+      "locatie": "Groningen Hoofdpost",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522062722_6161.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522063592/vehicle_1783522062722_6161.webp",
+        "size": 191066
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522063938,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:45.302Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "G-742-BT",
+      "roepnummer": "01-0192",
+      "type": "Adviseur gevaarlijke stoffen",
+      "locatie": "Groningen Hoofdpost",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522063915_6815.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522063938/vehicle_1783522063915_6815.webp",
+        "size": 326662
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522065609,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:46.739Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "2-VRG-34",
+      "roepnummer": "01-0102",
+      "type": "Personeel/materieelvoertuig",
+      "locatie": "Groningen Hoofdpost",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522065302_8153.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522065609/vehicle_1783522065302_8153.webp",
+        "size": 316094
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522067089,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:47.878Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "Javazee",
+      "roepnummer": "GEEN",
+      "type": "Reddingsmaatschappij vaartuig",
+      "locatie": "IJmuiden",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522066739_650.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522067089/vehicle_1783522066739_650.webp",
+        "size": 149982
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522068781,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:49.030Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "UGV 2",
+      "type": "Bijzondere uitrusting blusrobot",
+      "locatie": "Moezelweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522067878_9648.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522068781/vehicle_1783522067878_9648.webp",
+        "size": 302184
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783522069378,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:47:50.293Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "UGV 1",
+      "type": "Bijzondere uitrusting blusrobot",
+      "locatie": "Moezelweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783522069030_9910.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783522069378/vehicle_1783522069030_9910.webp",
+        "size": 308824
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
