@@ -12535,7 +12535,7 @@
   },
   {
     "id": 1783503928952,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:45:29.399Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12545,15 +12545,18 @@
       "locatie": "Vlissingen-Souburg",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783503928058_3629.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503928952/vehicle_1783503928058_3629.webp",
-        "size": 179382
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-4402-2-ZTF-25.webp",
+        "path": "vehicles/19-4402-2-ZTF-25.webp",
+        "sha": "98e1500d46048c0a0e83844948f3676977442f4d",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-4402-2-ZTF-25_thumb.webp",
+        "thumbPath": "19-4402-2-ZTF-25_thumb.webp",
+        "thumbSha": "8f22aad927d30cb71b1ec31ebfce4e46e924ee30"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:46:53.643Z",
     "rejectedAt": null,
     "rejectReason": null
   },
