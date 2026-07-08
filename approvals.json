@@ -11542,32 +11542,5 @@
     "approvedAt": "2026-07-07T17:51:38.924Z",
     "rejectedAt": null,
     "rejectReason": null
-  },
-  {
-    "id": 1783497552294,
-    "status": "approved",
-    "submittedAt": "2026-07-08T07:59:14.640Z",
-    "copyrightName": "xRaxyyy",
-    "vehicleData": {
-      "kenteken": "ZB-105-K",
-      "roepnummer": "01-1003",
-      "type": "Dienstbus",
-      "locatie": "Leek",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/01-1003-ZB-105-K.webp",
-        "path": "vehicles/01-1003-ZB-105-K.webp",
-        "sha": "777877a5737cb841a2f7c38356f3b8012b6985b3",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/01-1003-ZB-105-K_thumb.webp",
-        "thumbPath": "01-1003-ZB-105-K_thumb.webp",
-        "thumbSha": "6c401a8a1501764fb5e2bc2a645edd617287ceaa"
-      }
-    ],
-    "approvedAt": "2026-07-08T07:59:22.162Z",
-    "rejectedAt": null,
-    "rejectReason": null
   }
 ]
