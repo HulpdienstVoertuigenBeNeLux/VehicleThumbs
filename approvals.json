@@ -15112,7 +15112,7 @@
   },
   {
     "id": 1783520653951,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:24:15.026Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15122,15 +15122,18 @@
       "locatie": "Enschede Hoofdpost",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783520653509_5596.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520653951/vehicle_1783520653509_5596.webp",
-        "size": 486346
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/05-4171-93-BJJ-2.webp",
+        "path": "vehicles/05-4171-93-BJJ-2.webp",
+        "sha": "de7f29f59d484f2544b8ef15a830528a03b06885",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/05-4171-93-BJJ-2_thumb.webp",
+        "thumbPath": "05-4171-93-BJJ-2_thumb.webp",
+        "thumbSha": "20af38313045ec848bd4dabf372ce0a59f5d42c7"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:24:37.647Z",
     "rejectedAt": null,
     "rejectReason": null
   },
