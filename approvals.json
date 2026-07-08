@@ -14107,5 +14107,245 @@
     "approvedAt": "2026-07-08T13:49:11.315Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783519122068,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:42.962Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "17-9166",
+      "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
+      "locatie": "Ridderkerk",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519121521_2663.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519122068/vehicle_1783519121521_2663.webp",
+        "size": 472536
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519123491,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:44.336Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "85-BTX-1",
+      "roepnummer": "17-3831",
+      "type": "Tankautospuit",
+      "locatie": "Ridderkerk",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519122962_1163.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519123491/vehicle_1783519122962_1163.webp",
+        "size": 344124
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519125156,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:45.634Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "25-BSJ-7",
+      "roepnummer": "05-9333",
+      "type": "Tankautospuit",
+      "locatie": "Hengelo Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519124336_5925.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519125156/vehicle_1783519124336_5925.webp",
+        "size": 322560
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519125901,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:47.356Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "R-799-NJ",
+      "roepnummer": "05-2101",
+      "type": "Dienstbus",
+      "locatie": "Oldenzaal",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519125635_7285.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519125901/vehicle_1783519125635_7285.webp",
+        "size": 628226
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519127373,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:48.862Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "X-353-BF",
+      "roepnummer": "05-0122",
+      "type": "Dienstauto",
+      "locatie": "Hengelo Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519127356_2498.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519127373/vehicle_1783519127356_2498.webp",
+        "size": 543296
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519129226,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:50.360Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "UGV 4",
+      "type": "Bijzondere uitrusting blusrobot",
+      "locatie": "Hoogvliet",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519128862_9189.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519129226/vehicle_1783519128862_9189.webp",
+        "size": 461502
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519130430,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:51.619Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "LM-59-88",
+      "roepnummer": "28-4267",
+      "type": "Crashtender Defensie",
+      "locatie": "Gilze-Rijen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519130360_3498.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519130430/vehicle_1783519130360_3498.webp",
+        "size": 315618
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519131811,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:52.889Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "17-1887",
+      "type": "Bijzonder materieel haakarmbak met blusrobot",
+      "locatie": "Moezelweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519131619_2664.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519131811/vehicle_1783519131619_2664.webp",
+        "size": 388262
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519133344,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:54.275Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "10-BTP-3",
+      "roepnummer": "17-2281",
+      "type": "Haakarmvoertuig",
+      "locatie": "Hoogvliet",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519132889_8263.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519133344/vehicle_1783519132889_8263.webp",
+        "size": 364054
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783519134558,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:58:55.663Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VGL-75-Z",
+      "roepnummer": "23-4481",
+      "type": "Ondersteuningsteam grootschalige watervoorziening",
+      "locatie": "Weert",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783519134275_1284.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519134558/vehicle_1783519134275_1284.webp",
+        "size": 350104
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
