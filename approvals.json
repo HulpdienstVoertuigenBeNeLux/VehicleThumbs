@@ -12949,7 +12949,7 @@
   },
   {
     "id": 1783504124865,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:48:45.995Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12959,15 +12959,18 @@
       "locatie": "Spoed HAP Den Haag",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783504124645_9846.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783504124865/vehicle_1783504124645_9846.webp",
-        "size": 236698
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/15-711-S-603-JL.webp",
+        "path": "vehicles/15-711-S-603-JL.webp",
+        "sha": "07751e640004145fc4860ddbdfee61c168a459e5",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/15-711-S-603-JL_thumb.webp",
+        "thumbPath": "15-711-S-603-JL_thumb.webp",
+        "thumbSha": "7c1620a45ffbc10353db69dbf9ef6facd38c7b5e"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:48:56.433Z",
     "rejectedAt": null,
     "rejectReason": null
   }
