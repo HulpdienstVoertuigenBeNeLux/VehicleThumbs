@@ -12583,7 +12583,7 @@
   },
   {
     "id": 1783503931564,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:45:32.514Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12593,15 +12593,18 @@
       "locatie": "Utrecht Leidsche Rijn",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783503930808_1957.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783503931564/vehicle_1783503930808_1957.webp",
-        "size": 436350
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/09-9017-09-HJK-4.webp",
+        "path": "vehicles/09-9017-09-HJK-4.webp",
+        "sha": "724ddb1dff1cdb6ac50a299faf07b797c8c70f6d",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/09-9017-09-HJK-4_thumb.webp",
+        "thumbPath": "09-9017-09-HJK-4_thumb.webp",
+        "thumbSha": "3bef7a0cf43c53bf9b94ebd6fdd04569fe6f2e77"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:46:42.202Z",
     "rejectedAt": null,
     "rejectReason": null
   },
