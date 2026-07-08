@@ -12805,7 +12805,7 @@
   },
   {
     "id": 1783504117174,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:48:37.580Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -12815,15 +12815,18 @@
       "locatie": "Terneuzen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783504116456_6474.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783504117174/vehicle_1783504116456_6474.webp",
-        "size": 286272
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/19-348-GXV-06-B.webp",
+        "path": "vehicles/19-348-GXV-06-B.webp",
+        "sha": "4fda23291d1ede53634841556ba5dab19c2d2355",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/19-348-GXV-06-B_thumb.webp",
+        "thumbPath": "19-348-GXV-06-B_thumb.webp",
+        "thumbSha": "21ae12d9e5153acfea69357dd9a3a8ded6507387"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:52:10.269Z",
     "rejectedAt": null,
     "rejectReason": null
   },
