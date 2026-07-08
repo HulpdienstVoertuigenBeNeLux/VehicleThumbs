@@ -14917,5 +14917,245 @@
     "approvedAt": "2026-07-08T14:18:47.618Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783520642705,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:03.850Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "62-WD-TT",
+      "roepnummer": "06-5962",
+      "type": "Motorspuitaanhanger",
+      "locatie": "Hengelo",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520642119_9798.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520642705/vehicle_1783520642119_9798.webp",
+        "size": 376184
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520644116,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:05.361Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BV-SH-07",
+      "roepnummer": "06-5962",
+      "type": "Slangenvoertuig kleinschalige watervoorziening",
+      "locatie": "Hengelo",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520643850_2827.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520644116/vehicle_1783520643850_2827.webp",
+        "size": 321320
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520645782,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:06.894Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BX-XH-10",
+      "roepnummer": "06-5941",
+      "type": "Tankautospuit terreinvaardig natuurbrandbestrijding",
+      "locatie": "Hengelo",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520645361_8666.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520645782/vehicle_1783520645361_8666.webp",
+        "size": 337724
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520647627,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:08.347Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "26-WN-NT",
+      "roepnummer": "06-4972",
+      "type": "Veetakel installatie aanhanger",
+      "locatie": "Ruurlo",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520646894_8696.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520647627/vehicle_1783520646894_8696.webp",
+        "size": 248428
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520649038,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:09.696Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "R-343-BN",
+      "roepnummer": "06-4901",
+      "type": "Dienstbus",
+      "locatie": "Ruurlo",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520648347_3238.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520649038/vehicle_1783520648347_3238.webp",
+        "size": 342394
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520649973,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:11.038Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "7-KRR-36",
+      "roepnummer": "06-2627",
+      "type": "Ondersteuningsteam grootschalige ontsmetting",
+      "locatie": "Apeldoorn-Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520649696_2313.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520649973/vehicle_1783520649696_2313.webp",
+        "size": 276600
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520651462,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:12.361Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "06-82HV",
+      "type": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
+      "locatie": "Groenlo",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520651038_9422.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520651462/vehicle_1783520651038_9422.webp",
+        "size": 172440
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520652934,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:13.509Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BX-RL-82",
+      "roepnummer": "05-9489",
+      "type": "Haakarmvoertuig",
+      "locatie": "Oldenzaal",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520652361_8174.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520652934/vehicle_1783520652361_8174.webp",
+        "size": 298244
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520653951,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:15.026Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "93-BJJ-2",
+      "roepnummer": "05-4171",
+      "type": "Hulpverleningsvoertuig",
+      "locatie": "Enschede Hoofdpost",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520653509_5596.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520653951/vehicle_1783520653509_5596.webp",
+        "size": 486346
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520655027,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:24:16.443Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "36-BXV-7",
+      "roepnummer": "05-2541",
+      "type": "Tankautospuit terreinvaardig natuurbrandbestrijding",
+      "locatie": "De Lutte",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520655026_8960.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520655027/vehicle_1783520655026_8960.webp",
+        "size": 275780
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
