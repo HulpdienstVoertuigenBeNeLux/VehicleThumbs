@@ -13219,7 +13219,7 @@
   },
   {
     "id": 1783504751875,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:59:12.646Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -13229,15 +13229,18 @@
       "locatie": "Barendrecht Breslau",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783504751329_2056.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783504751875/vehicle_1783504751329_2056.webp",
-        "size": 299946
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-131-J-364-HR.webp",
+        "path": "vehicles/17-131-J-364-HR.webp",
+        "sha": "3fe4494aa2f4ff15034d6f425b77b2c06157f098",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-131-J-364-HR_thumb.webp",
+        "thumbPath": "17-131-J-364-HR_thumb.webp",
+        "thumbSha": "10f97d7ebd8f1d27145737b8ce35a78af97bed75"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:59:20.392Z",
     "rejectedAt": null,
     "rejectReason": null
   }
