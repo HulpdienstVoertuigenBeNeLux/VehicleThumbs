@@ -14722,7 +14722,7 @@
   },
   {
     "id": 1783520310759,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:18:31.875Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -14732,15 +14732,18 @@
       "locatie": "Apeldoorn",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783520310710_1737.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520310759/vehicle_1783520310710_1737.webp",
-        "size": 384402
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-39-BRK-5.webp",
+        "path": "vehicles/GEEN-39-BRK-5.webp",
+        "sha": "748fdd7f35c3cade91549dd333d10e4ef72f16d3",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-39-BRK-5_thumb.webp",
+        "thumbPath": "GEEN-39-BRK-5_thumb.webp",
+        "thumbSha": "14aefb7236c1738eac03c6cbb6e9a4cc11fcd3ef"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:19:56.217Z",
     "rejectedAt": null,
     "rejectReason": null
   },
