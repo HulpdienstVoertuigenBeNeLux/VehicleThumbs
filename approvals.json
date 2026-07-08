@@ -14647,5 +14647,245 @@
     "approvedAt": "2026-07-08T14:14:29.564Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783520308118,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:28.686Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "R-018-VZ",
+      "roepnummer": "17-8901 (01)",
+      "type": "Dienstbus",
+      "locatie": "Airport Rotterdam",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520307318_4615.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520308118/vehicle_1783520307318_4615.webp",
+        "size": 297906
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520309378,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:29.896Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "P45",
+      "roepnummer": "Handelshaven, Delfzijl",
+      "type": "53.327758, 6.929335",
+      "locatie": "Delfzijl",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520308686_8677.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520309378/vehicle_1783520308686_8677.webp",
+        "size": 397406
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520309991,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:30.710Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "PH-HVB",
+      "roepnummer": "03-994",
+      "type": "Mobiel medisch team luchtvaartuig",
+      "locatie": "Eelde Airport",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520309896_4982.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520309991/vehicle_1783520309896_4982.webp",
+        "size": 83400
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520310759,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:31.875Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "39-BRK-5",
+      "roepnummer": "GEEN",
+      "type": "Vrachtwagenberging",
+      "locatie": "Apeldoorn",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520310710_1737.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520310759/vehicle_1783520310710_1737.webp",
+        "size": 384402
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520312049,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:33.341Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "46-LLV-6",
+      "roepnummer": "36-6310",
+      "type": "Reddingsbrigade voertuig terreinvaardig",
+      "locatie": "Apeldoorn",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520311875_3769.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520312049/vehicle_1783520311875_3769.webp",
+        "size": 300420
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520314213,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:34.887Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "26-SJP-5",
+      "roepnummer": "GEEN",
+      "type": "Dienstauto",
+      "locatie": "Oldenzaal",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520313341_1571.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520314213/vehicle_1783520313341_1571.webp",
+        "size": 442452
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520315041,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:36.120Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "LM-59-90",
+      "roepnummer": "28-4965",
+      "type": "Crashtender Defensie",
+      "locatie": "Vliegbasis Deelen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520314887_3937.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520315041/vehicle_1783520314887_3937.webp",
+        "size": 300870
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520316128,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:37.489Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "V-15-DKN",
+      "roepnummer": "06-9801",
+      "type": "Team brandonderzoek",
+      "locatie": "Hoofdkantoor VNOG",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520316120_7821.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520316128/vehicle_1783520316120_7821.webp",
+        "size": 263570
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520318367,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:38.778Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "06-6884",
+      "type": "Logistiek haakarmbak",
+      "locatie": "Doetinchem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520317489_2147.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520318367/vehicle_1783520317489_2147.webp",
+        "size": 306732
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783520319060,
+    "status": "pending",
+    "submittedAt": "2026-07-08T14:18:40.248Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "28-WN-NS",
+      "roepnummer": "06-6886",
+      "type": "Brandstoftankaanhanger",
+      "locatie": "Doetinchem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783520318778_4911.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520319060/vehicle_1783520318778_4911.webp",
+        "size": 422248
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
