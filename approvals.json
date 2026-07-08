@@ -15604,7 +15604,7 @@
   },
   {
     "id": 1783521458742,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:37:39.691Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15614,15 +15614,18 @@
       "locatie": "Bosbrandweer Noord NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783521458259_1518.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783521458742/vehicle_1783521458259_1518.webp",
-        "size": 431668
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/01-3941-VV-15-RK.webp",
+        "path": "vehicles/01-3941-VV-15-RK.webp",
+        "sha": "2abcde621d0e2557199f76aeea6c34d1bfa7a9f6",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/01-3941-VV-15-RK_thumb.webp",
+        "thumbPath": "01-3941-VV-15-RK_thumb.webp",
+        "thumbSha": "4476a84ed93884aba96665cd672a355656119b98"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:38:54.454Z",
     "rejectedAt": null,
     "rejectReason": null
   },
