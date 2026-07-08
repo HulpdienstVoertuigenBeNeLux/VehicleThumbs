@@ -16351,7 +16351,7 @@
   },
   {
     "id": 1783524770314,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T15:32:51.884Z",
     "copyrightName": "ThomaxDW",
     "vehicleData": {
@@ -16361,15 +16361,18 @@
       "locatie": "Hilversum",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783524769561_8250.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783524770314/vehicle_1783524769561_8250.webp",
-        "size": 711368
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/14-7163-VG-112-R.webp",
+        "path": "vehicles/14-7163-VG-112-R.webp",
+        "sha": "9c9b98288ca7d9549067f2d0f6d13fa6eada9ab8",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/14-7163-VG-112-R_thumb.webp",
+        "thumbPath": "14-7163-VG-112-R_thumb.webp",
+        "thumbSha": "395216d913a1898119e57713a69ee463e403f942"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T15:50:28.047Z",
     "rejectedAt": null,
     "rejectReason": null
   }
