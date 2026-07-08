@@ -11923,7 +11923,7 @@
   },
   {
     "id": 1783502936088,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:28:57.471Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11933,15 +11933,18 @@
       "locatie": "Woensdrecht",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502936064_80.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502936088/vehicle_1783502936064_80.webp",
-        "size": 299712
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/28-4134-DM-760-N.webp",
+        "path": "vehicles/28-4134-DM-760-N.webp",
+        "sha": "aa3abcef1d3895b1880ea108e7461caea3e27546",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/28-4134-DM-760-N_thumb.webp",
+        "thumbPath": "28-4134-DM-760-N_thumb.webp",
+        "thumbSha": "5408bed6e7a6a1862252a7c918c6d006cd49827e"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:30:33.946Z",
     "rejectedAt": null,
     "rejectReason": null
   },
