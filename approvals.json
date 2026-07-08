@@ -15541,7 +15541,7 @@
   },
   {
     "id": 1783521455573,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:37:35.663Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15551,15 +15551,18 @@
       "locatie": "IJmuiden",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783521454677_286.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783521455573/vehicle_1783521454677_286.webp",
-        "size": 139276
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-Koos-van-Messel.webp",
+        "path": "vehicles/GEEN-Koos-van-Messel.webp",
+        "sha": "3fd01123ecf051dd25aac0e2cffe0211a84124e9",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-Koos-van-Messel_thumb.webp",
+        "thumbPath": "GEEN-Koos-van-Messel_thumb.webp",
+        "thumbSha": "2ef9d96cf8384eb2c623eaf9aa2878fe0c1be2af"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:40:26.055Z",
     "rejectedAt": null,
     "rejectReason": null
   },
