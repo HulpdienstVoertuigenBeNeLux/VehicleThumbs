@@ -14182,7 +14182,7 @@
   },
   {
     "id": 1783519125901,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T13:58:47.356Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -14192,15 +14192,18 @@
       "locatie": "Oldenzaal",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783519125635_7285.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783519125901/vehicle_1783519125635_7285.webp",
-        "size": 628226
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/05-2101-R-799-NJ.webp",
+        "path": "vehicles/05-2101-R-799-NJ.webp",
+        "sha": "83d235bb56e9446bf4c728f562546bdd94c67b86",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/05-2101-R-799-NJ_thumb.webp",
+        "thumbPath": "05-2101-R-799-NJ_thumb.webp",
+        "thumbSha": "2bccb9a2c724a9514f2fd5a2eff8cb759684ddb8"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:00:32.838Z",
     "rejectedAt": null,
     "rejectReason": null
   },
