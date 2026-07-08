@@ -11971,7 +11971,7 @@
   },
   {
     "id": 1783502938974,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:29:00.127Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11981,15 +11981,18 @@
       "locatie": "Zoetermeer IFV",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502938876_5172.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502938974/vehicle_1783502938876_5172.webp",
-        "size": 264652
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/26-8382-43-BHX-1.webp",
+        "path": "vehicles/26-8382-43-BHX-1.webp",
+        "sha": "faf6a2ad42d958cc4669e7f5125dce7267b4e094",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/26-8382-43-BHX-1_thumb.webp",
+        "thumbPath": "26-8382-43-BHX-1_thumb.webp",
+        "thumbSha": "7fbccb0e3da8c31a48693571b8b1a5d5442933ec"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:30:26.169Z",
     "rejectedAt": null,
     "rejectReason": null
   },
