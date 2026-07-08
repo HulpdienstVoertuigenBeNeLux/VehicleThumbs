@@ -11947,7 +11947,7 @@
   },
   {
     "id": 1783502938211,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T09:28:58.876Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -11957,15 +11957,18 @@
       "locatie": "ISK Harskamp",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783502937471_75.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783502938211/vehicle_1783502937471_75.webp",
-        "size": 294710
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/28-2243-DM-607-N.webp",
+        "path": "vehicles/28-2243-DM-607-N.webp",
+        "sha": "7f30dce014d306b0ae111a0c421fd6b51ee65f7a",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/28-2243-DM-607-N_thumb.webp",
+        "thumbPath": "28-2243-DM-607-N_thumb.webp",
+        "thumbSha": "76e8f47dd89d9871b6c5a7a8c6d49a7d5eed9f5c"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T09:30:30.196Z",
     "rejectedAt": null,
     "rejectReason": null
   },
