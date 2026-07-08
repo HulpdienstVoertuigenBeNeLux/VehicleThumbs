@@ -14794,7 +14794,7 @@
   },
   {
     "id": 1783520315041,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:18:36.120Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -14804,15 +14804,18 @@
       "locatie": "Vliegbasis Deelen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783520314887_3937.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783520315041/vehicle_1783520314887_3937.webp",
-        "size": 300870
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/28-4965-LM-59-90.webp",
+        "path": "vehicles/28-4965-LM-59-90.webp",
+        "sha": "8e6bae9b7f7ddcdbf025d9036a25655186a04d52",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/28-4965-LM-59-90_thumb.webp",
+        "thumbPath": "28-4965-LM-59-90_thumb.webp",
+        "thumbSha": "f1c44479999bdd9fe62838f4eb93bd45d41aa275"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:19:27.174Z",
     "rejectedAt": null,
     "rejectReason": null
   },
