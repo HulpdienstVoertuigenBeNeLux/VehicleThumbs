@@ -13837,5 +13837,245 @@
     "approvedAt": "2026-07-08T13:41:07.564Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783518518406,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:39.053Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "18-8162",
+      "type": "Schuimblushaakarmbak",
+      "locatie": "Gorinchem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518517654_4463.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518518406/vehicle_1783518517654_4463.webp",
+        "size": 380704
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518519203,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:40.615Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "91-BTV-4",
+      "roepnummer": "18-8151",
+      "type": "Autoladder",
+      "locatie": "Gorinchem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518519053_5659.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518519203/vehicle_1783518519053_5659.webp",
+        "size": 372438
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518520766,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:42.055Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "XZ-850-X",
+      "roepnummer": "18-8101",
+      "type": "Dienstbus",
+      "locatie": "Gorinchem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518520615_6802.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518520766/vehicle_1783518520615_6802.webp",
+        "size": 347456
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518522771,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:43.501Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "7-VXJ-55",
+      "roepnummer": "04-DB0014",
+      "type": "Gereedschap/materieelvoertuig",
+      "locatie": "Zwolle (Hoofdpost)",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518522055_5043.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518522771/vehicle_1783518522055_5043.webp",
+        "size": 309978
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518524184,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:44.805Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "04-2684",
+      "type": "Verzorgingshaakarmbak",
+      "locatie": "Heino",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518523501_708.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518524184/vehicle_1783518523501_708.webp",
+        "size": 288302
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518525466,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:46.280Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "36-BXG-7",
+      "roepnummer": "04-2632",
+      "type": "Tankautospuit",
+      "locatie": "Heeten",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518524805_4881.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518525466/vehicle_1783518524805_4881.webp",
+        "size": 360090
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518526292,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:47.819Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VFT-52-G",
+      "roepnummer": "04-2601",
+      "type": "Personeel/materieelvoertuig",
+      "locatie": "Heeten",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518526280_8972.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518526292/vehicle_1783518526280_8972.webp",
+        "size": 357986
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518528477,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:49.316Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BS-BB-19",
+      "roepnummer": "04-1130",
+      "type": "Tankautospuit",
+      "locatie": "Zwolle (Hoofdpost)",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518527819_4126.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518528477/vehicle_1783518527819_4126.webp",
+        "size": 361760
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518529907,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:50.649Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "ZV-567-F",
+      "roepnummer": "04-1091",
+      "type": "Hoofdofficier van dienst Brandweer",
+      "locatie": "Zwolle (Hoofdpost)",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518529316_8450.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518529907/vehicle_1783518529316_8450.webp",
+        "size": 364664
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783518531031,
+    "status": "pending",
+    "submittedAt": "2026-07-08T13:48:52.018Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "83-BPS-7",
+      "roepnummer": "04-1039",
+      "type": "Tankautospuit",
+      "locatie": "Raalte",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783518530649_4054.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783518531031/vehicle_1783518530649_4054.webp",
+        "size": 302772
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
