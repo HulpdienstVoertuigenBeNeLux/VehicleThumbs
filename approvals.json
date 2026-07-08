@@ -15334,7 +15334,7 @@
   },
   {
     "id": 1783521140721,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-08T14:32:21.721Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -15344,15 +15344,18 @@
       "locatie": "Amsterdam",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783521140561_9191.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783521140721/vehicle_1783521140561_9191.webp",
-        "size": 222838
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/IJdok-29---Amsterdam-P503.webp",
+        "path": "vehicles/IJdok-29---Amsterdam-P503.webp",
+        "sha": "11f7e7cf4d1de41408c93173321097aa1f12fc27",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/IJdok-29---Amsterdam-P503_thumb.webp",
+        "thumbPath": "IJdok-29---Amsterdam-P503_thumb.webp",
+        "thumbSha": "a8134ab760eb51ecc03f83cba4f1d09e88f40770"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-08T14:32:58.195Z",
     "rejectedAt": null,
     "rejectReason": null
   },
