@@ -17755,7 +17755,7 @@
   },
   {
     "id": 1783600355901,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T12:32:37.180Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -17765,15 +17765,18 @@
       "locatie": "Schiedam",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783600355627_1919.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600355901/vehicle_1783600355627_1919.webp",
-        "size": 464714
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-0451-BX-BD-94.webp",
+        "path": "vehicles/17-0451-BX-BD-94.webp",
+        "sha": "88d4797776372da695b5b3749dcfc2869fbae2a0",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-0451-BX-BD-94_thumb.webp",
+        "thumbPath": "17-0451-BX-BD-94_thumb.webp",
+        "thumbSha": "c40a9b5953ecd3b66b506f134e2666ba41c40914"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T12:33:25.468Z",
     "rejectedAt": null,
     "rejectReason": null
   },
