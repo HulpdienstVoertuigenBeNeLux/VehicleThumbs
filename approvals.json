@@ -16375,5 +16375,77 @@
     "approvedAt": "2026-07-08T15:50:28.047Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783594013612,
+    "status": "pending",
+    "submittedAt": "2026-07-09T10:46:54.793Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "58-BXR-8",
+      "roepnummer": "04-2270",
+      "type": "Hulpverleningsvoertuig",
+      "locatie": "Ommen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783594013519_6418.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783594013612/vehicle_1783594013519_6418.webp",
+        "size": 254944
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783594015097,
+    "status": "pending",
+    "submittedAt": "2026-07-09T10:46:56.284Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "JH-380-V",
+      "roepnummer": "04-2280",
+      "type": "Dienstbus",
+      "locatie": "Ommen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783594014793_1791.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783594015097/vehicle_1783594014793_1791.webp",
+        "size": 325662
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783594016446,
+    "status": "pending",
+    "submittedAt": "2026-07-09T10:46:57.552Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VTD-44-Z",
+      "roepnummer": "04-2290",
+      "type": "Landelijk adviseur natuurbrandbestrijding",
+      "locatie": "Ommen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783594016284_1237.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783594016446/vehicle_1783594016284_1237.webp",
+        "size": 310984
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
