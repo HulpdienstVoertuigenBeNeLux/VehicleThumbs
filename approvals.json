@@ -17806,5 +17806,245 @@
     "approvedAt": "2026-07-09T12:33:29.176Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783602971981,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:13.362Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "66-BTZ-5",
+      "roepnummer": "17-0431",
+      "type": "Tankautospuit",
+      "locatie": "Schiedam",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602971704_9415.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602971981/vehicle_1783602971704_9415.webp",
+        "size": 340052
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602974281,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:15.084Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "08-BDB-2",
+      "roepnummer": "17-9333",
+      "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602973362_5767.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602974281/vehicle_1783602973362_5767.webp",
+        "size": 530290
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602975991,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:16.993Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "DM-954-D",
+      "roepnummer": "28-4294",
+      "type": "On scene commander Defensie",
+      "locatie": "Gilze-Rijen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602975084_2837.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602975991/vehicle_1783602975084_2837.webp",
+        "size": 534120
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602977451,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:18.866Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "17-863",
+      "type": "Regionale ambulancevoorziening haakarmbak",
+      "locatie": "Brandweer Vlaardingen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602976993_7499.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602977451/vehicle_1783602976993_7499.webp",
+        "size": 562440
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602979265,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:20.261Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "23-BXN-9",
+      "roepnummer": "16-4252",
+      "type": "Autoladder",
+      "locatie": "Leiden Zuid",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602978866_4255.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602979265/vehicle_1783602978866_4255.webp",
+        "size": 201196
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602980518,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:21.771Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GH-698-G",
+      "roepnummer": "15-9704",
+      "type": "Dienstauto",
+      "locatie": "Den Haag-Haaglanden",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602980261_4062.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602980518/vehicle_1783602980261_4062.webp",
+        "size": 204838
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602982016,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:23.134Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "15-5060",
+      "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
+      "locatie": "Wassenaar",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602981771_5135.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602982016/vehicle_1783602981771_5135.webp",
+        "size": 232278
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602983523,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:24.457Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VVB-69-G",
+      "roepnummer": "15-5041",
+      "type": "Verkenningsvoertuig terreinvaardig natuurbrandbestrijding",
+      "locatie": "Wassenaar",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602983134_5000.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602983523/vehicle_1783602983134_5000.webp",
+        "size": 275118
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602984986,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:25.886Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "61-BTL-6",
+      "roepnummer": "15-5030",
+      "type": "Tankautospuit",
+      "locatie": "Wassenaar",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602984457_9239.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602984986/vehicle_1783602984457_9239.webp",
+        "size": 257470
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783602986669,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:16:27.347Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "61-XJ-HJ",
+      "roepnummer": "16-958",
+      "type": "Rode Kruis voertuig",
+      "locatie": "Katwijk",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783602985886_3242.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602986669/vehicle_1783602985886_3242.webp",
+        "size": 403790
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
