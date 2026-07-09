@@ -17536,5 +17536,245 @@
     "approvedAt": "2026-07-09T12:18:32.443Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783600345960,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:26.830Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "V-419-XT",
+      "roepnummer": "04-806",
+      "type": "Officier van dienst geneeskundige zorg",
+      "locatie": "Zwolle",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600345344_8043.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600345960/vehicle_1783600345344_8043.webp",
+        "size": 408940
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600347045,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:28.208Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "PJ-663-J",
+      "roepnummer": "04-203",
+      "type": "Ambulance middencomplexe zorg",
+      "locatie": "Zwolle",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600346830_3246.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600347045/vehicle_1783600346830_3246.webp",
+        "size": 350784
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600348303,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:29.468Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "J-033-VG",
+      "roepnummer": "04-341",
+      "type": "Rapid responder",
+      "locatie": "Zwolle",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600348208_9252.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600348303/vehicle_1783600348208_9252.webp",
+        "size": 280216
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600349749,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:30.780Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "17-1888",
+      "type": "Bijzonder materieel haakarmbak met blusrobot",
+      "locatie": "Hoogvliet",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600349468_1177.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600349749/vehicle_1783600349468_1177.webp",
+        "size": 366486
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600351112,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:31.954Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "09-BFV-6",
+      "roepnummer": "17-9332",
+      "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600350780_8887.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600351112/vehicle_1783600350780_8887.webp",
+        "size": 230378
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600352045,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:32.976Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "77-08-YV",
+      "roepnummer": "17-9312",
+      "type": "Waterongevallenvaartuig middel",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600351954_2893.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600352045/vehicle_1783600351954_2893.webp",
+        "size": 231466
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600353636,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:34.283Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "V-291-KV",
+      "roepnummer": "17-9194",
+      "type": "Officier van dienst Brandweer",
+      "locatie": "Regionaal/Wilhelminakade",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600352976_2251.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600353636/vehicle_1783600352976_2251.webp",
+        "size": 305980
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600355223,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:35.627Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "17-8963 (63)",
+      "type": "Crashtender",
+      "locatie": "Airport Rotterdam",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600354283_2393.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600355223/vehicle_1783600354283_2393.webp",
+        "size": 344026
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600355901,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:37.180Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BX-BD-94",
+      "roepnummer": "17-0451",
+      "type": "Hoogwerker",
+      "locatie": "Schiedam",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600355627_1919.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600355901/vehicle_1783600355627_1919.webp",
+        "size": 464714
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783600358162,
+    "status": "pending",
+    "submittedAt": "2026-07-09T12:32:38.403Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "54-BDL-2",
+      "roepnummer": "17-0432",
+      "type": "Tankautospuit",
+      "locatie": "Schiedam",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783600357180_5403.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783600358162/vehicle_1783600357180_5403.webp",
+        "size": 248954
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
