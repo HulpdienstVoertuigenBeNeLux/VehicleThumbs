@@ -18808,7 +18808,7 @@
   },
   {
     "id": 1783605438416,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:57:18.754Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18818,15 +18818,18 @@
       "locatie": "Den Bommel",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783605437714_52.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783605438416/vehicle_1783605437714_52.webp",
-        "size": 203030
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-4931-77-BDK-6.webp",
+        "path": "vehicles/17-4931-77-BDK-6.webp",
+        "sha": "c4be4a59ecffd4911688fcb232c395ee38f2d916",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-4931-77-BDK-6_thumb.webp",
+        "thumbPath": "17-4931-77-BDK-6_thumb.webp",
+        "thumbSha": "b6d9f65a5a581aeb1c4454979339fd154de4c315"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:58:19.726Z",
     "rejectedAt": null,
     "rejectReason": null
   },
