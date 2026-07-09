@@ -17080,7 +17080,7 @@
   },
   {
     "id": 1783598680303,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T12:04:40.875Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -17090,15 +17090,18 @@
       "locatie": "Zwartsluis",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783598679626_9577.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783598680303/vehicle_1783598679626_9577.webp",
-        "size": 276952
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/04-1833-BT-HG-90.webp",
+        "path": "vehicles/04-1833-BT-HG-90.webp",
+        "sha": "071b96491fafa6d39e748d0de06b5ba4db350435",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/04-1833-BT-HG-90_thumb.webp",
+        "thumbPath": "04-1833-BT-HG-90_thumb.webp",
+        "thumbSha": "8744d9917d7e81cc7b270c2dbc14f134b2b522ba"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T12:16:44.425Z",
     "rejectedAt": null,
     "rejectReason": null
   },
