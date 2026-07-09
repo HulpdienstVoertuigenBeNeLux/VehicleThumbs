@@ -18376,7 +18376,7 @@
   },
   {
     "id": 1783604200255,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:36:41.207Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18386,15 +18386,18 @@
       "locatie": "Apeldoorn Zuid",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783604199718_8400.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604200255/vehicle_1783604199718_8400.webp",
-        "size": 289334
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/06-3331-22-BGT-6.webp",
+        "path": "vehicles/06-3331-22-BGT-6.webp",
+        "sha": "e1fbd9e87a256d18d6767f9ead89b3e33f77427f",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/06-3331-22-BGT-6_thumb.webp",
+        "thumbPath": "06-3331-22-BGT-6_thumb.webp",
+        "thumbSha": "1b60459f6f9978595f072e8797ff85517c35b7a0"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:37:11.136Z",
     "rejectedAt": null,
     "rejectReason": null
   },
