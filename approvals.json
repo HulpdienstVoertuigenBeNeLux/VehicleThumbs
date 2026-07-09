@@ -18076,5 +18076,245 @@
     "approvedAt": "2026-07-09T13:19:50.460Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783603672692,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:27:54.067Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VFG-88-H",
+      "roepnummer": "GEEN",
+      "type": "Gereedschap/materieelvoertuig",
+      "locatie": "Katwijk",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603672360_3353.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603672692/vehicle_1783603672360_3353.webp",
+        "size": 433712
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603674832,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:27:55.632Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "16-1776",
+      "type": "Bijzonder materieel haakarmbak met natuurbrand bestrijdingmaterieel",
+      "locatie": "Katwijk",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603674067_2939.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603674832/vehicle_1783603674067_2939.webp",
+        "size": 354630
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603676442,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:27:57.328Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "84-BDL-8",
+      "roepnummer": "04-2530",
+      "type": "Tankautospuit",
+      "locatie": "Olst",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603675633_227.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603676442/vehicle_1783603675633_227.webp",
+        "size": 464196
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603677507,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:27:58.978Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "47-BKG-9",
+      "roepnummer": "06-2661",
+      "type": "Watertankwagen",
+      "locatie": "Apeldoorn-Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603677328_42.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603677507/vehicle_1783603677328_42.webp",
+        "size": 324768
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603679082,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:28:00.533Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "T-696-FP",
+      "roepnummer": "25-8181",
+      "type": "Pelotonscommandant logistiek",
+      "locatie": "Lelystad",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603678978_2515.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603679082/vehicle_1783603678978_2515.webp",
+        "size": 437936
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603680625,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:28:02.338Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "78-VXJ-8",
+      "roepnummer": "06-9905",
+      "type": "Coördinatie- en informatievoorzieningsvoertuig Brandweer",
+      "locatie": "Hoofdkantoor VNOG",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603680533_4156.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603680625/vehicle_1783603680533_4156.webp",
+        "size": 448308
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603682718,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:28:04.184Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "72-BXG-1",
+      "roepnummer": "06-7234",
+      "type": "Tankautospuit",
+      "locatie": "Zutphen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603682338_5252.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603682718/vehicle_1783603682338_5252.webp",
+        "size": 352868
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603684578,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:28:05.994Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VZH-22-R",
+      "roepnummer": "06-7003",
+      "type": "Dienstauto",
+      "locatie": "Harderwijk",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603684184_7244.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603684578/vehicle_1783603684184_7244.webp",
+        "size": 486760
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603686902,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:28:07.572Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BJ-SG-28",
+      "roepnummer": "06-7135",
+      "type": "Tankautospuit",
+      "locatie": "Apeldoorn Zuid",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603685994_5197.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603686902/vehicle_1783603685994_5197.webp",
+        "size": 304182
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783603687875,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:28:09.253Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "80-VXJ-8",
+      "roepnummer": "06-6701",
+      "type": "Ondersteuningsteam logistiek",
+      "locatie": "Apeldoorn Zuid",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783603687573_6124.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603687875/vehicle_1783603687573_6124.webp",
+        "size": 416856
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
