@@ -18346,5 +18346,245 @@
     "approvedAt": "2026-07-09T13:29:36.768Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783604199208,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:39.718Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BZ-JN-64",
+      "roepnummer": "06-2681",
+      "type": "Haakarmvoertuig",
+      "locatie": "Apeldoorn-Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604198495_4191.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604199208/vehicle_1783604198495_4191.webp",
+        "size": 231006
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604200255,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:41.207Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "22-BGT-6",
+      "roepnummer": "06-3331",
+      "type": "Tankautospuit",
+      "locatie": "Apeldoorn Zuid",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604199718_8400.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604200255/vehicle_1783604199718_8400.webp",
+        "size": 289334
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604201664,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:42.572Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "26-8180",
+      "type": "Verzorgingshaakarmbak",
+      "locatie": "Apeldoorn-Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604201207_2717.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604201664/vehicle_1783604201207_2717.webp",
+        "size": 244522
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604202859,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:44.180Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BX-BR-72",
+      "roepnummer": "06-2671",
+      "type": "Hulpverleningsvoertuig",
+      "locatie": "Apeldoorn-Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604202572_2327.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604202859/vehicle_1783604202572_2327.webp",
+        "size": 472122
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604204596,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:45.600Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "06-2624",
+      "type": "Basis ontsmetting haakarmbak decontaminatie",
+      "locatie": "Apeldoorn-Centrum",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604204180_4217.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604204596/vehicle_1783604204180_4217.webp",
+        "size": 499066
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604205757,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:46.864Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "R-132-VP",
+      "roepnummer": "18-171",
+      "type": "Ambulance hoogcomplexe zorg",
+      "locatie": "Klaaswaal",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604205600_7892.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604205757/vehicle_1783604205600_7892.webp",
+        "size": 196778
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604207424,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:48.384Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "N-500-VK",
+      "roepnummer": "17-123",
+      "type": "Ambulance hoogcomplexe zorg",
+      "locatie": "Goedereede",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604206864_9490.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604207424/vehicle_1783604206864_9490.webp",
+        "size": 310984
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604208900,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:49.803Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "K-774-PF",
+      "roepnummer": "17-117",
+      "type": "Ambulance hoogcomplexe zorg",
+      "locatie": "Barendrecht Breslau",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604208384_2805.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604208900/vehicle_1783604208384_2805.webp",
+        "size": 245012
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604210436,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:51.273Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BZ-GD-10",
+      "roepnummer": "04-1682",
+      "type": "Haakarmvoertuig",
+      "locatie": "Zwolle (Hoofdpost)",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604209804_2060.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604210436/vehicle_1783604209804_2060.webp",
+        "size": 480014
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783604211836,
+    "status": "pending",
+    "submittedAt": "2026-07-09T13:36:52.531Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "L-008-ZK",
+      "roepnummer": "06-202",
+      "type": "Ambulance middencomplexe zorg",
+      "locatie": "Apeldoorn-Saba",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783604211273_1599.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604211836/vehicle_1783604211273_1599.webp",
+        "size": 210790
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
