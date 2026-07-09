@@ -16483,32 +16483,5 @@
     "approvedAt": "2026-07-09T10:50:16.343Z",
     "rejectedAt": null,
     "rejectReason": null
-  },
-  {
-    "id": 1783594596218,
-    "status": "approved",
-    "submittedAt": "2026-07-09T10:56:36.790Z",
-    "copyrightName": "Test123",
-    "vehicleData": {
-      "kenteken": "CG 1229",
-      "roepnummer": "KDOW 1",
-      "type": "Officier van dienst Brandweer",
-      "locatie": "Alebësch-Eschsauer",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/KDOW-1-CG-1229.webp",
-        "path": "vehicles/KDOW-1-CG-1229.webp",
-        "sha": "07166416191ade6540dcebd4b9ea9b250af3ed10",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/KDOW-1-CG-1229_thumb.webp",
-        "thumbPath": "KDOW-1-CG-1229_thumb.webp",
-        "thumbSha": "86e86f3fbeff4523101eb5a8a90fc949250be156"
-      }
-    ],
-    "approvedAt": "2026-07-09T10:56:44.184Z",
-    "rejectedAt": null,
-    "rejectReason": null
   }
 ]
