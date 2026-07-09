@@ -19321,7 +19321,7 @@
   },
   {
     "id": 1783608735410,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T14:52:16.509Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -19331,15 +19331,18 @@
       "locatie": "Drachten",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783608734570_1959.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783608735410/vehicle_1783608734570_1959.webp",
-        "size": 599824
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/02-7004-ZF-802-R.webp",
+        "path": "vehicles/02-7004-ZF-802-R.webp",
+        "sha": "24847667f3966b1af67ae0df42b369cc5d39dd04",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/02-7004-ZF-802-R_thumb.webp",
+        "thumbPath": "02-7004-ZF-802-R_thumb.webp",
+        "thumbSha": "e2c43badff6ad7d730b027f42b85b720307a7a3f"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T15:26:11.765Z",
     "rejectedAt": null,
     "rejectReason": null
   },
