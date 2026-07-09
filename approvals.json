@@ -16486,7 +16486,7 @@
   },
   {
     "id": 1783596990705,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T11:36:30.230Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -16496,15 +16496,18 @@
       "locatie": "Schiphol",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783596989988_2210.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596990705/vehicle_1783596989988_2210.webp",
-        "size": 18602
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/Geen-SAR-Heli-PH-PXE.webp",
+        "path": "vehicles/Geen-SAR-Heli-PH-PXE.webp",
+        "sha": "2c8737d3c7ad33565edf92988c7ada9201eda631",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/Geen-SAR-Heli-PH-PXE_thumb.webp",
+        "thumbPath": "Geen-SAR-Heli-PH-PXE_thumb.webp",
+        "thumbSha": "43e2feb6aff0ec47c0d4e1c8f93223403b37dc7c"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T11:37:05.097Z",
     "rejectedAt": null,
     "rejectReason": null
   },
