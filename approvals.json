@@ -16594,7 +16594,7 @@
   },
   {
     "id": 1783596994010,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T11:36:34.882Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -16604,15 +16604,18 @@
       "locatie": "Brandweer Vlaardingen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783596993346_6628.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596994010/vehicle_1783596993346_6628.webp",
-        "size": 500272
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-834-TH-FX-22.webp",
+        "path": "vehicles/17-834-TH-FX-22.webp",
+        "sha": "9d0de68304bb2686201c6a28771b6ce08c22ddbb",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-834-TH-FX-22_thumb.webp",
+        "thumbPath": "17-834-TH-FX-22_thumb.webp",
+        "thumbSha": "b333d76df49e84d20bf939cedef2dea2c8871156"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T11:37:40.912Z",
     "rejectedAt": null,
     "rejectReason": null
   },
