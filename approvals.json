@@ -18079,7 +18079,7 @@
   },
   {
     "id": 1783603672692,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:27:54.067Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18089,15 +18089,18 @@
       "locatie": "Katwijk",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783603672360_3353.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603672692/vehicle_1783603672360_3353.webp",
-        "size": 433712
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-VFG-88-H.webp",
+        "path": "vehicles/GEEN-VFG-88-H.webp",
+        "sha": "48615b912b238f26280db7a7c670ed2ac9805b79",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-VFG-88-H_thumb.webp",
+        "thumbPath": "GEEN-VFG-88-H_thumb.webp",
+        "thumbSha": "81b38399fa0524ddef23fb5c2f7f0e0b3a64665e"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:28:27.377Z",
     "rejectedAt": null,
     "rejectReason": null
   },
