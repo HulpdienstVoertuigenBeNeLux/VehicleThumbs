@@ -18943,7 +18943,7 @@
   },
   {
     "id": 1783606043631,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T14:07:24.604Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18953,15 +18953,18 @@
       "locatie": "FASE Kolham",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783606043460_1316.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783606043631/vehicle_1783606043460_1316.webp",
-        "size": 335778
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/01-387-XT-687-G.webp",
+        "path": "vehicles/01-387-XT-687-G.webp",
+        "sha": "79b30e053eb86b3fccaa327acb2690b07d77420b",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/01-387-XT-687-G_thumb.webp",
+        "thumbPath": "01-387-XT-687-G_thumb.webp",
+        "thumbSha": "d0f23b02a4afe3ba47c1ee8a1f085378346d10ee"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T14:08:01.408Z",
     "rejectedAt": null,
     "rejectReason": null
   },
