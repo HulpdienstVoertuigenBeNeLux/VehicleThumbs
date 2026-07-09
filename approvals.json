@@ -18511,7 +18511,7 @@
   },
   {
     "id": 1783604207424,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:36:48.384Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18521,15 +18521,18 @@
       "locatie": "Goedereede",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783604206864_9490.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604207424/vehicle_1783604206864_9490.webp",
-        "size": 310984
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-123-N-500-VK.webp",
+        "path": "vehicles/17-123-N-500-VK.webp",
+        "sha": "89abb7e8eccd131d4827450232f9622eea75d79e",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-123-N-500-VK_thumb.webp",
+        "thumbPath": "17-123-N-500-VK_thumb.webp",
+        "thumbSha": "523c8cc6c07396981867bc037bbcc727fc997f8d"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:37:30.682Z",
     "rejectedAt": null,
     "rejectReason": null
   },
