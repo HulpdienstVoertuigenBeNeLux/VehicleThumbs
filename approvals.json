@@ -16483,5 +16483,29 @@
     "approvedAt": "2026-07-09T10:50:16.343Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783594596218,
+    "status": "pending",
+    "submittedAt": "2026-07-09T10:56:36.790Z",
+    "copyrightName": "Test123",
+    "vehicleData": {
+      "kenteken": "CG 1229",
+      "roepnummer": "KDOW 1",
+      "type": "Officier van dienst Brandweer",
+      "locatie": "Alebësch-Eschsauer",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783594595727_1818.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783594596218/vehicle_1783594595727_1818.webp",
+        "size": 210848
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
