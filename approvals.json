@@ -17890,7 +17890,7 @@
   },
   {
     "id": 1783602977451,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:16:18.866Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -17900,15 +17900,18 @@
       "locatie": "Brandweer Vlaardingen",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783602976993_7499.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783602977451/vehicle_1783602976993_7499.webp",
-        "size": 562440
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-863-GEEN.webp",
+        "path": "vehicles/17-863-GEEN.webp",
+        "sha": "657a3f3e08e3f75de5f6157bd98399fbcb3e5431",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-863-GEEN_thumb.webp",
+        "thumbPath": "17-863-GEEN_thumb.webp",
+        "thumbSha": "09a63ad8c1e644b25c99ab5b0c173db34aa2f75d"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:19:20.631Z",
     "rejectedAt": null,
     "rejectReason": null
   },
