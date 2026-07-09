@@ -16756,7 +16756,7 @@
   },
   {
     "id": 1783597306008,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T11:41:47.200Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -16766,15 +16766,18 @@
       "locatie": "Berkel en Rodenrijs",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783597306003_6572.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783597306008/vehicle_1783597306003_6572.webp",
-        "size": 268014
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-0731-01-BFV-6.webp",
+        "path": "vehicles/17-0731-01-BFV-6.webp",
+        "sha": "31e856e59cf8ea2ab4cc32ba2b734087fd1e0f94",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-0731-01-BFV-6_thumb.webp",
+        "thumbPath": "17-0731-01-BFV-6_thumb.webp",
+        "thumbSha": "ac17ed81118fe30bc03ca828ca0a6c349dbc9cfa"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T11:42:37.588Z",
     "rejectedAt": null,
     "rejectReason": null
   },
