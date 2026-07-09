@@ -18970,7 +18970,7 @@
   },
   {
     "id": 1783606045373,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T14:07:25.642Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18980,15 +18980,18 @@
       "locatie": "Lelystad Airport",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783606044604_4756.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783606045373/vehicle_1783606044604_4756.webp",
-        "size": 166924
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-PH-MAA.webp",
+        "path": "vehicles/GEEN-PH-MAA.webp",
+        "sha": "7858cf54e7f4c67e072d0d782279f0a67410442d",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-PH-MAA_thumb.webp",
+        "thumbPath": "GEEN-PH-MAA_thumb.webp",
+        "thumbSha": "41eb001e522b6cdd29546b85c0c3d3d00da3fc93"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T14:08:05.825Z",
     "rejectedAt": null,
     "rejectReason": null
   },
