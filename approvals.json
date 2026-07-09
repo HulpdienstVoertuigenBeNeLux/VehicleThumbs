@@ -19267,7 +19267,7 @@
   },
   {
     "id": 1783608731310,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T14:52:12.635Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -19277,15 +19277,18 @@
       "locatie": "Tiel",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783608730848_238.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783608731310/vehicle_1783608730848_238.webp",
-        "size": 514716
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/08-8005-J-345-DK.webp",
+        "path": "vehicles/08-8005-J-345-DK.webp",
+        "sha": "441e3346f186894b41f325891dc60fc0b5e101c6",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/08-8005-J-345-DK_thumb.webp",
+        "thumbPath": "08-8005-J-345-DK_thumb.webp",
+        "thumbSha": "706fe732c6ae50850e2b774457e1fb030e50632f"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T15:25:49.616Z",
     "rejectedAt": null,
     "rejectReason": null
   },
