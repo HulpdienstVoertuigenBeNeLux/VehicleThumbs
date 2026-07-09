@@ -19375,7 +19375,7 @@
   },
   {
     "id": 1783608738951,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T14:52:19.586Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -19385,15 +19385,18 @@
       "locatie": "Rotterdam Brugwachter",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783608738023_1574.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783608738951/vehicle_1783608738023_1574.webp",
-        "size": 214098
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-210-ZN-612-P.webp",
+        "path": "vehicles/17-210-ZN-612-P.webp",
+        "sha": "b8c3c067e8d85f6e873373bfb857137917886b7b",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-210-ZN-612-P_thumb.webp",
+        "thumbPath": "17-210-ZN-612-P_thumb.webp",
+        "thumbSha": "c809841f34a4012732c70d65cd96314763f30621"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T15:26:18.749Z",
     "rejectedAt": null,
     "rejectReason": null
   },
