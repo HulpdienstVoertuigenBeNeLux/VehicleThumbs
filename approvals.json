@@ -19426,5 +19426,317 @@
     "approvedAt": "2026-07-09T15:26:22.524Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783621711442,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:28:36.837Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "L13",
+      "type": "Ladderwagen",
+      "locatie": "Leuven",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621711062_7113.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621711442/vehicle_1783621711062_7113.webp",
+        "size": 930748
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621717616,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:28:42.789Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "C07",
+      "type": "Dienstauto Commando",
+      "locatie": "Zaventem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621716837_2176.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621717616/vehicle_1783621716837_2176.webp",
+        "size": 1133556
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621723031,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:28:48.552Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "P18",
+      "type": "Halfzware Autopomp",
+      "locatie": "Leuven",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621722789_9395.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621723031/vehicle_1783621722789_9395.webp",
+        "size": 994492
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621728711,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:28:54.750Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "P22",
+      "type": "Halfzware Autopomp",
+      "locatie": "Diest",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621728552_8383.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621728711/vehicle_1783621728552_8383.webp",
+        "size": 944490
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621735711,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:01.091Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "P16",
+      "type": "Halfzware Autopomp",
+      "locatie": "Leuven",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621734750_6809.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621735711/vehicle_1783621734750_6809.webp",
+        "size": 937938
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621742009,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:08.392Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "M25",
+      "type": "Lichte Autopomp",
+      "locatie": "Zaventem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621741091_3061.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621742009/vehicle_1783621741091_3061.webp",
+        "size": 728252
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621748547,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:14.209Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "P14",
+      "type": "Halfzware Autopomp",
+      "locatie": "Zaventem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621748392_2526.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621748547/vehicle_1783621748392_2526.webp",
+        "size": 835912
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621755165,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:19.921Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "T57",
+      "type": "Tankwagen",
+      "locatie": "Diest",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621754209_2987.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621755165/vehicle_1783621754209_2987.webp",
+        "size": 912330
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621760408,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:25.331Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "P23",
+      "type": "Halfzware Autopomp",
+      "locatie": "Diest",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621759921_2595.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621760408/vehicle_1783621759921_2595.webp",
+        "size": 1073992
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621765396,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:30.879Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "C12",
+      "type": "Dienstauto Terreinvaardig",
+      "locatie": "Scherpenheuvel-Zichem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621765331_5536.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621765396/vehicle_1783621765331_5536.webp",
+        "size": 851238
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621771600,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:36.800Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "T50",
+      "type": "Tankwagen",
+      "locatie": "Zaventem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621770879_5545.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621771600/vehicle_1783621770879_5545.webp",
+        "size": 1284272
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621777702,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:42.756Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "P27",
+      "type": "Halfzware Autopomp",
+      "locatie": "Leuven",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621776800_9538.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621777702/vehicle_1783621776800_9538.webp",
+        "size": 1113418
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783621783332,
+    "status": "pending",
+    "submittedAt": "2026-07-09T18:29:48.329Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "M01",
+      "type": "NMBS interventievoertuig + trailer (met kraan )",
+      "locatie": "Zaventem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783621782756_4324.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621783332/vehicle_1783621782756_4324.webp",
+        "size": 904486
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
