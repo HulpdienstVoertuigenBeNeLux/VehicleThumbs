@@ -18214,7 +18214,7 @@
   },
   {
     "id": 1783603680625,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:28:02.338Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18224,15 +18224,18 @@
       "locatie": "Hoofdkantoor VNOG",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783603680533_4156.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603680625/vehicle_1783603680533_4156.webp",
-        "size": 448308
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/06-9905-78-VXJ-8.webp",
+        "path": "vehicles/06-9905-78-VXJ-8.webp",
+        "sha": "81015b564330e07639b4d196ffb8070afb0ca2b3",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/06-9905-78-VXJ-8_thumb.webp",
+        "thumbPath": "06-9905-78-VXJ-8_thumb.webp",
+        "thumbSha": "6f4963698648af5b1b45a9ac728c3a3522f0a7c1"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:29:05.050Z",
     "rejectedAt": null,
     "rejectReason": null
   },
