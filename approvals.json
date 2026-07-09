@@ -16486,7 +16486,7 @@
   },
   {
     "id": 1783594596218,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T10:56:36.790Z",
     "copyrightName": "Test123",
     "vehicleData": {
@@ -16496,15 +16496,18 @@
       "locatie": "Alebësch-Eschsauer",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783594595727_1818.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783594596218/vehicle_1783594595727_1818.webp",
-        "size": 210848
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/KDOW-1-CG-1229.webp",
+        "path": "vehicles/KDOW-1-CG-1229.webp",
+        "sha": "07166416191ade6540dcebd4b9ea9b250af3ed10",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/KDOW-1-CG-1229_thumb.webp",
+        "thumbPath": "KDOW-1-CG-1229_thumb.webp",
+        "thumbSha": "86e86f3fbeff4523101eb5a8a90fc949250be156"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T10:56:44.184Z",
     "rejectedAt": null,
     "rejectReason": null
   }
