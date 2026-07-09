@@ -16540,7 +16540,7 @@
   },
   {
     "id": 1783596990704,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T11:36:31.912Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -16550,15 +16550,18 @@
       "locatie": "Regionaal/Wilhelminakade",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783596990460_921.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596990704/vehicle_1783596990460_921.webp",
-        "size": 349576
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-9192-V-287-KV.webp",
+        "path": "vehicles/17-9192-V-287-KV.webp",
+        "sha": "bf89cf0fb61361605fe4270aae981b113ae0046e",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-9192-V-287-KV_thumb.webp",
+        "thumbPath": "17-9192-V-287-KV_thumb.webp",
+        "thumbSha": "ddb0a4f3b7175fb2b958132284a892b9245b9aea"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T11:37:26.486Z",
     "rejectedAt": null,
     "rejectReason": null
   },
