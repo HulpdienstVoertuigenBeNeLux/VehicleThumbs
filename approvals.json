@@ -18889,7 +18889,7 @@
   },
   {
     "id": 1783606041610,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T14:07:22.293Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18899,15 +18899,18 @@
       "locatie": "Maximaweg",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783606040906_235.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783606041610/vehicle_1783606040906_235.webp",
-        "size": 384980
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-1331-22-BNZ-4.webp",
+        "path": "vehicles/17-1331-22-BNZ-4.webp",
+        "sha": "7b990518b3f953bca51d9f920ad7e4e81b66e907",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-1331-22-BNZ-4_thumb.webp",
+        "thumbPath": "17-1331-22-BNZ-4_thumb.webp",
+        "thumbSha": "4b627322ffdbcb155ccfa0f1e8ddc6e8ddda9a6e"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T14:07:47.683Z",
     "rejectedAt": null,
     "rejectReason": null
   },
