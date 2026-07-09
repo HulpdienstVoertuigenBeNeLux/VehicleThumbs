@@ -17188,7 +17188,7 @@
   },
   {
     "id": 1783598685136,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T12:04:46.579Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -17198,15 +17198,18 @@
       "locatie": "Hardenberg",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783598685016_3855.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783598685136/vehicle_1783598685016_3855.webp",
-        "size": 329088
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/04-2300-PG-727-J.webp",
+        "path": "vehicles/04-2300-PG-727-J.webp",
+        "sha": "572f31a7194a03bbf96b52ac2d32b175a8d43431",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/04-2300-PG-727-J_thumb.webp",
+        "thumbPath": "04-2300-PG-727-J_thumb.webp",
+        "thumbSha": "1740fc55e32c19c55f72a74d44edc7868b8a5661"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T12:17:02.627Z",
     "rejectedAt": null,
     "rejectReason": null
   },
