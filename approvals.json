@@ -18565,7 +18565,7 @@
   },
   {
     "id": 1783604210436,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:36:51.273Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18575,21 +18575,24 @@
       "locatie": "Zwolle (Hoofdpost)",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783604209804_2060.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604210436/vehicle_1783604209804_2060.webp",
-        "size": 480014
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/04-1682-BZ-GD-10.webp",
+        "path": "vehicles/04-1682-BZ-GD-10.webp",
+        "sha": "18e83c89778426e44026bc34c420360154ce0326",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/04-1682-BZ-GD-10_thumb.webp",
+        "thumbPath": "04-1682-BZ-GD-10_thumb.webp",
+        "thumbSha": "d00d8cd80eb82765215f759c7129c462246b7b99"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:37:37.814Z",
     "rejectedAt": null,
     "rejectReason": null
   },
   {
     "id": 1783604211836,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:36:52.531Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18599,15 +18602,18 @@
       "locatie": "Apeldoorn-Saba",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783604211273_1599.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783604211836/vehicle_1783604211273_1599.webp",
-        "size": 210790
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/06-202-L-008-ZK.webp",
+        "path": "vehicles/06-202-L-008-ZK.webp",
+        "sha": "d2cd8cac3f854d7f39a21aa6b3eb7576adafc706",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/06-202-L-008-ZK_thumb.webp",
+        "thumbPath": "06-202-L-008-ZK_thumb.webp",
+        "thumbSha": "68fd74a006ede1d47cb4f54c4c5498e18a8ac8ac"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:37:42.133Z",
     "rejectedAt": null,
     "rejectReason": null
   }
