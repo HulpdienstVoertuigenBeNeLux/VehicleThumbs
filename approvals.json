@@ -17161,7 +17161,7 @@
   },
   {
     "id": 1783598683888,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T12:04:45.016Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -17171,15 +17171,18 @@
       "locatie": "Prorail ICB Zwijndrecht",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783598683794_9332.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783598683888/vehicle_1783598683794_9332.webp",
-        "size": 244220
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-N-722-VN.webp",
+        "path": "vehicles/GEEN-N-722-VN.webp",
+        "sha": "a5684a2d5a65992161b0da0a9005fdbe152bb516",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-N-722-VN_thumb.webp",
+        "thumbPath": "GEEN-N-722-VN_thumb.webp",
+        "thumbSha": "9841571bae9d685da06ccf0b5395e716e16c22d7"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T12:16:57.804Z",
     "rejectedAt": null,
     "rejectReason": null
   },
