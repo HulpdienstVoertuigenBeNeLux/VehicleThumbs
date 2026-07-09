@@ -16513,7 +16513,7 @@
   },
   {
     "id": 1783596990764,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T11:36:30.460Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -16523,15 +16523,18 @@
       "locatie": "Schiphol",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783596990230_2663.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596990764/vehicle_1783596990230_2663.webp",
-        "size": 16634
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/Zie-hierboven--PH-PXY.webp",
+        "path": "vehicles/Zie-hierboven--PH-PXY.webp",
+        "sha": "fdbd67cc91bccfc989024bd98c115115907dab00",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/Zie-hierboven--PH-PXY_thumb.webp",
+        "thumbPath": "Zie-hierboven--PH-PXY_thumb.webp",
+        "thumbSha": "737bb34d8700005ba55a5fff70f12c6146c2c30d"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T11:37:19.550Z",
     "rejectedAt": null,
     "rejectReason": null
   },
