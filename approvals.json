@@ -19372,5 +19372,29 @@
     "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783610521014,
+    "status": "pending",
+    "submittedAt": "2026-07-09T15:22:01.928Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VRG-37-D",
+      "roepnummer": "04-701",
+      "type": "Huisarts voertuig",
+      "locatie": "Spoed HAP Zwolle",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783610520604_2639.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783610521014/vehicle_1783610520604_2639.webp",
+        "size": 393186
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
