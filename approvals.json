@@ -16456,32 +16456,5 @@
     "approvedAt": "2026-07-09T10:47:16.245Z",
     "rejectedAt": null,
     "rejectReason": null
-  },
-  {
-    "id": 1783594208527,
-    "status": "approved",
-    "submittedAt": "2026-07-09T10:50:08.746Z",
-    "copyrightName": "Test123",
-    "vehicleData": {
-      "kenteken": "",
-      "roepnummer": "A1",
-      "type": "Zware Autopomp",
-      "locatie": "Antwerpen-Noord",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/A1-unknown.webp",
-        "path": "vehicles/A1-unknown.webp",
-        "sha": "9d6e6a1f04ad6d23e4d21f732b5a3e85a42cac34",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/A1-unknown_thumb.webp",
-        "thumbPath": "A1-unknown_thumb.webp",
-        "thumbSha": "e65e626af8fc2c0ba0627511c6cea16f9db8f253"
-      }
-    ],
-    "approvedAt": "2026-07-09T10:50:16.343Z",
-    "rejectedAt": null,
-    "rejectReason": null
   }
 ]
