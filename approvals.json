@@ -19402,7 +19402,7 @@
   },
   {
     "id": 1783610521014,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T15:22:01.928Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -19412,15 +19412,18 @@
       "locatie": "Spoed HAP Zwolle",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783610520604_2639.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783610521014/vehicle_1783610520604_2639.webp",
-        "size": 393186
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/04-701-VRG-37-D.webp",
+        "path": "vehicles/04-701-VRG-37-D.webp",
+        "sha": "9c94248980f8f5da20773c18788bee370a0197fd",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/04-701-VRG-37-D_thumb.webp",
+        "thumbPath": "04-701-VRG-37-D_thumb.webp",
+        "thumbSha": "07e6441396ee4236c0dbc269f2134977f1e21282"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T15:26:22.524Z",
     "rejectedAt": null,
     "rejectReason": null
   }
