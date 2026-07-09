@@ -16456,5 +16456,245 @@
     "approvedAt": "2026-07-09T10:47:16.245Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783596990283,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:29.988Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "S19",
+      "type": "Dienstbus Personeel / Materiaal",
+      "locatie": "Heusden-Zolder",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596989660_5043.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596990283/vehicle_1783596989660_5043.webp",
+        "size": 70634
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596990705,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:30.230Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "PH-PXE",
+      "roepnummer": "Geen SAR-Heli",
+      "type": "Politie Helikopter",
+      "locatie": "Schiphol",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596989988_2210.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596990705/vehicle_1783596989988_2210.webp",
+        "size": 18602
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596990764,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:30.460Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "PH-PXY",
+      "roepnummer": "Zie hierboven.",
+      "type": "Search And Rescue Helikopter",
+      "locatie": "Schiphol",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596990230_2663.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596990764/vehicle_1783596990230_2663.webp",
+        "size": 16634
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596990704,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:31.912Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "V-287-KV",
+      "roepnummer": "17-9192",
+      "type": "Officier van dienst Brandweer",
+      "locatie": "Regionaal/Wilhelminakade",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596990460_921.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596990704/vehicle_1783596990460_921.webp",
+        "size": 349576
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596992465,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:33.346Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "06-BLJ-7",
+      "roepnummer": "17-0951",
+      "type": "Autoladder",
+      "locatie": "Bosland",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596991913_9099.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596992465/vehicle_1783596991913_9099.webp",
+        "size": 354078
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596994010,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:34.882Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "TH-FX-22",
+      "roepnummer": "17-834",
+      "type": "Noodhulpteam voertuig Rode Kruis",
+      "locatie": "Brandweer Vlaardingen",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596993346_6628.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596994010/vehicle_1783596993346_6628.webp",
+        "size": 500272
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596995860,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:36.551Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "BP-TB-89",
+      "roepnummer": "17-9281",
+      "type": "Haakarmvoertuig met kraan",
+      "locatie": "Frobenstraat",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596994882_6119.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596995860/vehicle_1783596994882_6119.webp",
+        "size": 402180
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596997366,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:37.909Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "GEEN",
+      "type": "Logistiek haakarmbak open uitvoering",
+      "locatie": "Frobenstraat",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596996551_5535.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596997366/vehicle_1783596996551_5535.webp",
+        "size": 278348
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596998289,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:39.278Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "17-9162",
+      "type": "Dompelpomphaakarmbak grootschalige watervoorziening",
+      "locatie": "Berkel en Rodenrijs",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596997909_3114.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596998289/vehicle_1783596997909_3114.webp",
+        "size": 298194
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783596999768,
+    "status": "pending",
+    "submittedAt": "2026-07-09T11:36:40.684Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "VB-239-D",
+      "roepnummer": "17-0761",
+      "type": "Snel inzetbaar voertuig",
+      "locatie": "Berkel en Rodenrijs",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783596999278_2601.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783596999768/vehicle_1783596999278_2601.webp",
+        "size": 335646
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
