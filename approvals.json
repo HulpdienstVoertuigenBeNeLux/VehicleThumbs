@@ -18295,7 +18295,7 @@
   },
   {
     "id": 1783603686902,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:28:07.572Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18305,15 +18305,18 @@
       "locatie": "Apeldoorn Zuid",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783603685994_5197.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603686902/vehicle_1783603685994_5197.webp",
-        "size": 304182
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/06-7135-BJ-SG-28.webp",
+        "path": "vehicles/06-7135-BJ-SG-28.webp",
+        "sha": "a218ad13f220916ee4f5a561d7e80643cb918d1d",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/06-7135-BJ-SG-28_thumb.webp",
+        "thumbPath": "06-7135-BJ-SG-28_thumb.webp",
+        "thumbSha": "44cb09d02138d4539607bcb849ba160bd9644fee"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:29:33.038Z",
     "rejectedAt": null,
     "rejectReason": null
   },
