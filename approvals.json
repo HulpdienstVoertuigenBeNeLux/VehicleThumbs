@@ -18268,7 +18268,7 @@
   },
   {
     "id": 1783603684578,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:28:05.994Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18278,15 +18278,18 @@
       "locatie": "Harderwijk",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783603684184_7244.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603684578/vehicle_1783603684184_7244.webp",
-        "size": 486760
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/06-7003-VZH-22-R.webp",
+        "path": "vehicles/06-7003-VZH-22-R.webp",
+        "sha": "fd17e8c6368a8a4736a049227447891915ea0c76",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/06-7003-VZH-22-R_thumb.webp",
+        "thumbPath": "06-7003-VZH-22-R_thumb.webp",
+        "thumbSha": "517fe7c9a4e5dd05a079155caf898cf0d8b46616"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:29:29.160Z",
     "rejectedAt": null,
     "rejectReason": null
   },
