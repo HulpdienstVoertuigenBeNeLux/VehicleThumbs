@@ -18187,7 +18187,7 @@
   },
   {
     "id": 1783603679082,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T13:28:00.533Z",
     "copyrightName": "Kor Heidinga",
     "vehicleData": {
@@ -18197,15 +18197,18 @@
       "locatie": "Lelystad",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783603678978_2515.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783603679082/vehicle_1783603678978_2515.webp",
-        "size": 437936
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/25-8181-T-696-FP.webp",
+        "path": "vehicles/25-8181-T-696-FP.webp",
+        "sha": "d390bfb9c2f7e17ef1c276488b83883fee2aacea",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/25-8181-T-696-FP_thumb.webp",
+        "thumbPath": "25-8181-T-696-FP_thumb.webp",
+        "thumbSha": "44daed5a50d9df712d61af113b0feb9e70fa1155"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-09T13:28:49.409Z",
     "rejectedAt": null,
     "rejectReason": null
   },
