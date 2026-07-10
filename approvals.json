@@ -19699,7 +19699,7 @@
   },
   {
     "id": 1783621771600,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T18:29:36.800Z",
     "copyrightName": "kobeblw",
     "vehicleData": {
@@ -19709,21 +19709,24 @@
       "locatie": "Zaventem",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783621770879_5545.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621771600/vehicle_1783621770879_5545.webp",
-        "size": 1284272
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/T50-unknown.webp",
+        "path": "vehicles/T50-unknown.webp",
+        "sha": "502a2ade0db4d04a583762c61bc7d318ec7b935c",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/T50-unknown_thumb.webp",
+        "thumbPath": "T50-unknown_thumb.webp",
+        "thumbSha": "ec93f22e0714d815cd6a435b42ebe1e0af9d2704"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-10T12:28:47.460Z",
     "rejectedAt": null,
     "rejectReason": null
   },
   {
     "id": 1783621777702,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T18:29:42.756Z",
     "copyrightName": "kobeblw",
     "vehicleData": {
@@ -19733,15 +19736,18 @@
       "locatie": "Leuven",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783621776800_9538.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621777702/vehicle_1783621776800_9538.webp",
-        "size": 1113418
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/P27-unknown.webp",
+        "path": "vehicles/P27-unknown.webp",
+        "sha": "18c8eb5dc8a4dcae280c1640e7e2bd7e17a52850",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/P27-unknown_thumb.webp",
+        "thumbPath": "P27-unknown_thumb.webp",
+        "thumbSha": "53139c91e2622f4be874688101c32a71eaddcd9b"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-10T12:28:51.870Z",
     "rejectedAt": null,
     "rejectReason": null
   },
