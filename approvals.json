@@ -19672,7 +19672,7 @@
   },
   {
     "id": 1783621765396,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-09T18:29:30.879Z",
     "copyrightName": "kobeblw",
     "vehicleData": {
@@ -19682,15 +19682,18 @@
       "locatie": "Scherpenheuvel-Zichem",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783621765331_5536.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783621765396/vehicle_1783621765331_5536.webp",
-        "size": 851238
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/C12-unknown.webp",
+        "path": "vehicles/C12-unknown.webp",
+        "sha": "700efc434eb7e13b24be482bd3b271fccafa8f89",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/C12-unknown_thumb.webp",
+        "thumbPath": "C12-unknown_thumb.webp",
+        "thumbSha": "43dd8a91d65cb396fed5b168eaac6a14a185e8c2"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-10T12:28:42.630Z",
     "rejectedAt": null,
     "rejectReason": null
   },
