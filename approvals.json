@@ -19894,5 +19894,149 @@
     "approvedAt": "2026-07-11T07:49:44.324Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783794550385,
+    "status": "pending",
+    "submittedAt": "2026-07-11T18:29:11.377Z",
+    "copyrightName": "112 Rozenburg / Leon B.",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "17-1865",
+      "type": "Waterkanonaanhanger tankput brandbestrijding",
+      "locatie": "Moezelweg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783794550073_7575.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794550385/vehicle_1783794550073_7575.webp",
+        "size": 420108
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783794552148,
+    "status": "pending",
+    "submittedAt": "2026-07-11T18:29:12.636Z",
+    "copyrightName": "112 Rozenburg / Leon B.",
+    "vehicleData": {
+      "kenteken": "VB-246-D",
+      "roepnummer": "17-2561",
+      "type": "Snel inzetbaar voertuig",
+      "locatie": "Hellevoetsluis",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783794551377_7937.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794552148/vehicle_1783794551377_7937.webp",
+        "size": 300200
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783794553552,
+    "status": "pending",
+    "submittedAt": "2026-07-11T18:29:13.760Z",
+    "copyrightName": "112 Rozenburg / Leon B.",
+    "vehicleData": {
+      "kenteken": "BZ-VT-68",
+      "roepnummer": "17-2551",
+      "type": "Hoogwerker",
+      "locatie": "Hellevoetsluis",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783794552636_1116.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794553552/vehicle_1783794552636_1116.webp",
+        "size": 434778
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783794554077,
+    "status": "pending",
+    "submittedAt": "2026-07-11T18:29:15.132Z",
+    "copyrightName": "112 Rozenburg / Leon B.",
+    "vehicleData": {
+      "kenteken": "20-BRT-1",
+      "roepnummer": "17-2531",
+      "type": "Tankautospuit",
+      "locatie": "Hellevoetsluis",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783794553760_3312.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794554077/vehicle_1783794553760_3312.webp",
+        "size": 407934
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783794555553,
+    "status": "pending",
+    "submittedAt": "2026-07-11T18:29:16.320Z",
+    "copyrightName": "112 Rozenburg / Leon B.",
+    "vehicleData": {
+      "kenteken": "BT-DD-83",
+      "roepnummer": "17-2571",
+      "type": "Hulpverleningsvoertuig",
+      "locatie": "Hellevoetsluis",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783794555132_3880.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794555553/vehicle_1783794555132_3880.webp",
+        "size": 340858
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783794557112,
+    "status": "pending",
+    "submittedAt": "2026-07-11T18:29:17.543Z",
+    "copyrightName": "112 Rozenburg / Leon B.",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "15-9586",
+      "type": "Brandstoftankaanhanger",
+      "locatie": "Den Haag-Haaglanden",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783794556320_6422.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794557112/vehicle_1783794556320_6422.webp",
+        "size": 398392
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
