@@ -19840,5 +19840,53 @@
     "approvedAt": null,
     "rejectedAt": "2026-07-11T07:10:26.054Z",
     "rejectReason": ""
+  },
+  {
+    "id": 1783756163612,
+    "status": "pending",
+    "submittedAt": "2026-07-11T07:49:23.306Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "K-402-VZ",
+      "roepnummer": "04-2389",
+      "type": "Handcrew voertuig",
+      "locatie": "Dedemsvaart",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783756163040_528.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783756163612/vehicle_1783756163040_528.webp",
+        "size": 61040
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783756163601,
+    "status": "pending",
+    "submittedAt": "2026-07-11T07:49:23.572Z",
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "04-2377",
+      "type": "Veetakel installatie aanhanger",
+      "locatie": "Dedemsvaart",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783756163306_7326.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783756163601/vehicle_1783756163306_7326.webp",
+        "size": 72060
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
