@@ -19777,5 +19777,29 @@
     "approvedAt": "2026-07-10T12:28:56.225Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783752909791,
+    "status": "pending",
+    "submittedAt": "2026-07-11T06:55:15.436Z",
+    "copyrightName": "112 Rozenburg / Leon B.",
+    "vehicleData": {
+      "kenteken": "GTL-56-X",
+      "roepnummer": "17-9093",
+      "type": "Hoofdofficier van dienst Brandweer",
+      "locatie": "Regionaal/Wilhelminakade",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783752909496_2492.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783752909791/vehicle_1783752909496_2492.webp",
+        "size": 1808196
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
