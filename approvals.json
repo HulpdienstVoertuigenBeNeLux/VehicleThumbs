@@ -20029,7 +20029,7 @@
   },
   {
     "id": 1783794557112,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-11T18:29:17.543Z",
     "copyrightName": "112 Rozenburg / Leon B.",
     "vehicleData": {
@@ -20039,15 +20039,18 @@
       "locatie": "Den Haag-Haaglanden",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783794556320_6422.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794557112/vehicle_1783794556320_6422.webp",
-        "size": 398392
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/15-9586-GEEN.webp",
+        "path": "vehicles/15-9586-GEEN.webp",
+        "sha": "881f61a3c3c0bef5e31beb3c9f93a81aa2a818d6",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/15-9586-GEEN_thumb.webp",
+        "thumbPath": "15-9586-GEEN_thumb.webp",
+        "thumbSha": "de0c4ae78a64bff389e49e6968e2ca69cbc97697"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-11T18:31:14.457Z",
     "rejectedAt": null,
     "rejectReason": null
   },
