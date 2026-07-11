@@ -19924,7 +19924,7 @@
   },
   {
     "id": 1783794552148,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-11T18:29:12.636Z",
     "copyrightName": "112 Rozenburg / Leon B.",
     "vehicleData": {
@@ -19934,15 +19934,18 @@
       "locatie": "Hellevoetsluis",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783794551377_7937.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794552148/vehicle_1783794551377_7937.webp",
-        "size": 300200
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-2561-VB-246-D.webp",
+        "path": "vehicles/17-2561-VB-246-D.webp",
+        "sha": "92a958144e4a4c5704ae33c6c8d92256e675edf5",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-2561-VB-246-D_thumb.webp",
+        "thumbPath": "17-2561-VB-246-D_thumb.webp",
+        "thumbSha": "927d9084106228b3179c8a44416e7accafd94c2a"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-11T18:30:47.714Z",
     "rejectedAt": null,
     "rejectReason": null
   },
