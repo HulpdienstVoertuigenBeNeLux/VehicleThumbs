@@ -19780,7 +19780,7 @@
   },
   {
     "id": 1783752909791,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-11T06:55:15.436Z",
     "copyrightName": "112 Rozenburg / Leon B.",
     "vehicleData": {
@@ -19790,15 +19790,18 @@
       "locatie": "Regionaal/Wilhelminakade",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783752909496_2492.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783752909791/vehicle_1783752909496_2492.webp",
-        "size": 1808196
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-9093-GTL-56-X.webp",
+        "path": "vehicles/17-9093-GTL-56-X.webp",
+        "sha": "002d82330a7c9094c3df9e7dc6ab909ee2ee9ca6",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-9093-GTL-56-X_thumb.webp",
+        "thumbPath": "17-9093-GTL-56-X_thumb.webp",
+        "thumbSha": "98a1c05399afc24dbdae42bc2eddda854f78552c"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-11T07:10:09.453Z",
     "rejectedAt": null,
     "rejectReason": null
   },
