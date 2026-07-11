@@ -20044,5 +20044,29 @@
     "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783794651560,
+    "status": "pending",
+    "submittedAt": "2026-07-11T18:30:52.876Z",
+    "copyrightName": "112 Rozenburg / Leon B.",
+    "vehicleData": {
+      "kenteken": "VD-67-RV",
+      "roepnummer": "GEEN",
+      "type": "Tankautospuit",
+      "locatie": "Rozenburg",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783794651414_755.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783794651560/vehicle_1783794651414_755.webp",
+        "size": 616822
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
