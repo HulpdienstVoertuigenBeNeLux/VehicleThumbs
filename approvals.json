@@ -20233,40 +20233,5 @@
     "approvedAt": "2026-07-12T14:31:14.254Z",
     "rejectedAt": null,
     "rejectReason": null
-  },
-  {
-    "id": 1783866729816,
-    "status": "approved",
-    "submittedAt": "2026-07-12T14:32:10.305Z",
-    "submittedBy": {
-      "discordId": "780817743351250954",
-      "username": "nyexaii",
-      "globalName": "Nyexaii",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/780817743351250954/99f04dc36af685df7f84b098711b12a2.png"
-    },
-    "copyrightName": "",
-    "vehicleData": {
-      "kenteken": "21-BSK-8",
-      "roepnummer": "05-9237",
-      "type": "Tankautospuit",
-      "locatie": "Denekamp",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/05-9237-21-BSK-8.webp",
-        "path": "vehicles/05-9237-21-BSK-8.webp",
-        "sha": "5e01de75b593a041b0dea7c41aaba405aa8fb66e",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/05-9237-21-BSK-8_thumb.webp",
-        "thumbPath": "05-9237-21-BSK-8_thumb.webp",
-        "thumbSha": "302aa3f018f14c616297b258e6de78b93fd89553"
-      }
-    ],
-    "approvedAt": "2026-07-12T14:36:26.772Z",
-    "rejectedAt": null,
-    "rejectReason": null
   }
 ]
