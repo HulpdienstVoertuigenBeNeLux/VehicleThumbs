@@ -20203,5 +20203,37 @@
     "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783865707672,
+    "status": "pending",
+    "submittedAt": "2026-07-12T14:15:07.332Z",
+    "submittedBy": {
+      "discordId": "1371070091550134293",
+      "username": "xraxyyy.",
+      "globalName": "xRaxyyy",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1371070091550134293/30275c43252596e2a6990996a5901fb9.png"
+    },
+    "copyrightName": "Test",
+    "vehicleData": {
+      "kenteken": "ZB-105-K",
+      "roepnummer": "01-1003",
+      "type": "Dienstbus",
+      "locatie": "Leek",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783865707264_8539.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783865707672/vehicle_1783865707264_8539.webp",
+        "size": 9980
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
