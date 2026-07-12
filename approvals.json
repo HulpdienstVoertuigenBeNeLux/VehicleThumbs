@@ -20083,5 +20083,125 @@
     "approvedAt": "2026-07-11T18:31:20.537Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783863511086,
+    "status": "pending",
+    "submittedAt": "2026-07-12T13:38:38.446Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "C19",
+      "type": "Dienstauto Commando",
+      "locatie": "Leuven",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783863510198_9050.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783863511086/vehicle_1783863510198_9050.webp",
+        "size": 1560506
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783863519211,
+    "status": "pending",
+    "submittedAt": "2026-07-12T13:38:45.472Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "L15",
+      "type": "Ladderwagen",
+      "locatie": "Leuven",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783863518446_1069.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783863519211/vehicle_1783863518446_1069.webp",
+        "size": 1174954
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783863525998,
+    "status": "pending",
+    "submittedAt": "2026-07-12T13:38:51.480Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "M13",
+      "type": "Dienstbus Personeel / Materiaal",
+      "locatie": "Leuven",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783863525472_8571.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783863525998/vehicle_1783863525472_8571.webp",
+        "size": 627130
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783863531894,
+    "status": "pending",
+    "submittedAt": "2026-07-12T13:38:58.468Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "S13",
+      "type": "Singnalisatievoertuig",
+      "locatie": "Leuven",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783863531480_1495.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783863531894/vehicle_1783863531480_1495.webp",
+        "size": 602690
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783863538851,
+    "status": "pending",
+    "submittedAt": "2026-07-12T13:39:06.313Z",
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "C41",
+      "type": "Dienstauto Commando",
+      "locatie": "Zaventem",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783863538468_2738.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783863538851/vehicle_1783863538468_2738.webp",
+        "size": 778026
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
