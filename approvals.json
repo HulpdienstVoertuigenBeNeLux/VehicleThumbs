@@ -20113,7 +20113,7 @@
   },
   {
     "id": 1783863519211,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-12T13:38:45.472Z",
     "copyrightName": "kobeblw",
     "vehicleData": {
@@ -20123,15 +20123,18 @@
       "locatie": "Leuven",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783863518446_1069.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783863519211/vehicle_1783863518446_1069.webp",
-        "size": 1174954
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/L15-unknown.webp",
+        "path": "vehicles/L15-unknown.webp",
+        "sha": "84f95974948ea9aa308f5dd6857b8fb08c9b4649",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/L15-unknown_thumb.webp",
+        "thumbPath": "L15-unknown_thumb.webp",
+        "thumbSha": "189cc28e963538c1f7dba0ecd36713817ac885d0"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-12T14:51:33.353Z",
     "rejectedAt": null,
     "rejectReason": null
   },
