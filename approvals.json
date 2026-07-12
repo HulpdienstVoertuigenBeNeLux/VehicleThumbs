@@ -20203,5 +20203,32 @@
     "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783866663086,
+    "status": "pending",
+    "submittedAt": "2026-07-12T14:31:02.919Z",
+    "submittedBy": null,
+    "copyrightName": "xRaxyyy",
+    "vehicleData": {
+      "kenteken": "ZB-105-K",
+      "roepnummer": "01-1003",
+      "type": "Dienstbus",
+      "locatie": "Leek",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783866662854_7788.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783866663086/vehicle_1783866662854_7788.webp",
+        "size": 10238
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
