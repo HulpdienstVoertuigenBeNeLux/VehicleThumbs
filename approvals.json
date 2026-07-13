@@ -20221,7 +20221,7 @@
   },
   {
     "id": 1783931307825,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-13T08:28:31.083Z",
     "submittedBy": null,
     "copyrightName": "Hulpdienstvoertuigenbenelux",
@@ -20234,15 +20234,18 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783931307340_2606.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783931307825/vehicle_1783931307340_2606.webp",
-        "size": 1370726
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/06-6362-GEEN.webp",
+        "path": "vehicles/06-6362-GEEN.webp",
+        "sha": "8ccf2e2fa97dd6c2d594ee16a45d1228ff6fb568",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/06-6362-GEEN_thumb.webp",
+        "thumbPath": "06-6362-GEEN_thumb.webp",
+        "thumbSha": "c5afd3327ad3d000ae296315001388e370811e7e"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-13T08:28:52.459Z",
     "rejectedAt": null,
     "rejectReason": null
   }
