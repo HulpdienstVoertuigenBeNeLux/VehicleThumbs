@@ -20269,5 +20269,32 @@
     "approvedAt": null,
     "rejectedAt": "2026-07-13T13:19:08.162Z",
     "rejectReason": ""
+  },
+  {
+    "id": 1783951451707,
+    "status": "pending",
+    "submittedAt": "2026-07-13T14:04:18.703Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "OO-NSP",
+      "roepnummer": "ONBEKEND",
+      "type": "Search And Rescue Helikopter",
+      "locatie": "Oostende",
+      "hulpdienst": "Kustwacht",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783951451681_9680.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783951451707/vehicle_1783951451681_9680.webp",
+        "size": 952060
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
