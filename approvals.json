@@ -21408,5 +21408,32 @@
     "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783957464466,
+    "status": "pending",
+    "submittedAt": "2026-07-13T15:44:24.832Z",
+    "submittedBy": null,
+    "copyrightName": "",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "L12",
+      "type": "Ladderwagen",
+      "locatie": "Diest",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783957463487_6996.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783957464466/vehicle_1783957463487_6996.webp",
+        "size": 428590
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
