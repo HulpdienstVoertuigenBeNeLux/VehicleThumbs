@@ -21327,7 +21327,7 @@
   },
   {
     "id": 1783954846146,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-13T15:00:52.430Z",
     "submittedBy": null,
     "copyrightName": "kobeblw",
@@ -21340,15 +21340,18 @@
       "land": "BE",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783954845307_7572.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954846146/vehicle_1783954845307_7572.webp",
-        "size": 917908
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/M41-unknown.webp",
+        "path": "vehicles/M41-unknown.webp",
+        "sha": "0c55caf68504d4fd67a6a0c6062747de0e2ab4f2",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/M41-unknown_thumb.webp",
+        "thumbPath": "M41-unknown_thumb.webp",
+        "thumbSha": "c63160ad1a19c07fab9bc90caea898fef73fa8e9"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-13T18:40:47.864Z",
     "rejectedAt": null,
     "rejectReason": null
   },
