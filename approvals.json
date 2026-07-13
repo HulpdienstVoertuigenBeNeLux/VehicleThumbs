@@ -21517,7 +21517,7 @@
   },
   {
     "id": 1783960686083,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-13T16:38:14.147Z",
     "submittedBy": {
       "discordId": "922539162937204747",
@@ -21535,15 +21535,18 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783960685509_6442.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783960686083/vehicle_1783960685509_6442.webp",
-        "size": 3103480
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/13-2471-76-BPV-4.webp",
+        "path": "vehicles/13-2471-76-BPV-4.webp",
+        "sha": "0d936c4e9b28ac56a15889dd8798bc904cdd95ef",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/13-2471-76-BPV-4_thumb.webp",
+        "thumbPath": "13-2471-76-BPV-4_thumb.webp",
+        "thumbSha": "b9d3b9c9940c9dabc4ce4be827b4c434b2ba8b56"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-13T18:41:15.381Z",
     "rejectedAt": null,
     "rejectReason": null
   },
