@@ -20251,7 +20251,7 @@
   },
   {
     "id": 1783948709013,
-    "status": "pending",
+    "status": "rejected",
     "submittedAt": "2026-07-13T13:18:29.461Z",
     "submittedBy": null,
     "copyrightName": "TEST",
@@ -20264,16 +20264,10 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
-      {
-        "filename": "vehicle_1783948708124_9140.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783948709013/vehicle_1783948708124_9140.webp",
-        "size": 268598
-      }
-    ],
+    "images": [],
     "githubUrls": null,
     "approvedAt": null,
-    "rejectedAt": null,
-    "rejectReason": null
+    "rejectedAt": "2026-07-13T13:19:08.162Z",
+    "rejectReason": ""
   }
 ]
