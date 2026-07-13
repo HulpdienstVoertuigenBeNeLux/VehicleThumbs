@@ -21034,5 +21034,59 @@
     "approvedAt": "2026-07-13T14:35:45.452Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783954064815,
+    "status": "pending",
+    "submittedAt": "2026-07-13T14:47:50.636Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "T541",
+      "type": "Half Zware Autopomp",
+      "locatie": "Beerse",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783954064576_4392.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954064815/vehicle_1783954064576_4392.webp",
+        "size": 699682
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783954071480,
+    "status": "pending",
+    "submittedAt": "2026-07-13T14:47:56.283Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "L12",
+      "type": "Ladderwagen",
+      "locatie": "Diest",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783954070636_3819.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954071480/vehicle_1783954070636_3819.webp",
+        "size": 946744
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
