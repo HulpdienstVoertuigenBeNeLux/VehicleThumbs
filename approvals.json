@@ -20477,7 +20477,7 @@
   },
   {
     "id": 1783953037494,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-13T14:30:43.910Z",
     "submittedBy": {
       "discordId": "469780601516326914",
@@ -20495,15 +20495,18 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783953037387_5760.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783953037494/vehicle_1783953037387_5760.webp",
-        "size": 2618564
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-BX-VG-38.webp",
+        "path": "vehicles/GEEN-BX-VG-38.webp",
+        "sha": "19763cb129a2a7cdfe0bea11a8c0c9cbd08906bf",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-BX-VG-38_thumb.webp",
+        "thumbPath": "GEEN-BX-VG-38_thumb.webp",
+        "thumbSha": "a27297652641dbcb4bae1b5d72c43eaa0fe79d4e"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-13T14:36:25.011Z",
     "rejectedAt": null,
     "rejectReason": null
   },
