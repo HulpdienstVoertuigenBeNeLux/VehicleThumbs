@@ -21276,5 +21276,167 @@
     "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783954830624,
+    "status": "pending",
+    "submittedAt": "2026-07-13T15:00:37.855Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "T55",
+      "type": "Tankwagen",
+      "locatie": "Zaventem",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783954830257_2301.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954830624/vehicle_1783954830257_2301.webp",
+        "size": 617250
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783954838737,
+    "status": "pending",
+    "submittedAt": "2026-07-13T15:00:45.307Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "L30",
+      "type": "Ladderwagen",
+      "locatie": "Zaventem",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783954837855_7672.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954838737/vehicle_1783954837855_7672.webp",
+        "size": 887512
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783954846146,
+    "status": "pending",
+    "submittedAt": "2026-07-13T15:00:52.430Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "M41",
+      "type": "Haakarmvoertuig (met kraan)",
+      "locatie": "Zaventem",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783954845307_7572.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954846146/vehicle_1783954845307_7572.webp",
+        "size": 917908
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783954853014,
+    "status": "pending",
+    "submittedAt": "2026-07-13T15:00:59.679Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "M80",
+      "type": "Haakarmvoertuig",
+      "locatie": "Zaventem",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783954852430_4988.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954853014/vehicle_1783954852430_4988.webp",
+        "size": 731384
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783954859911,
+    "status": "pending",
+    "submittedAt": "2026-07-13T15:01:07.722Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "I04",
+      "type": "Dienstbus",
+      "locatie": "Zaventem",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783954859679_9297.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954859911/vehicle_1783954859679_9297.webp",
+        "size": 930604
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783954867911,
+    "status": "pending",
+    "submittedAt": "2026-07-13T15:01:14.581Z",
+    "submittedBy": null,
+    "copyrightName": "kobeblw",
+    "vehicleData": {
+      "kenteken": "",
+      "roepnummer": "C39",
+      "type": "Commandowagen",
+      "locatie": "Zaventem",
+      "hulpdienst": "Brandweer",
+      "land": "BE",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783954867722_471.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783954867911/vehicle_1783954867722_471.webp",
+        "size": 1010040
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
