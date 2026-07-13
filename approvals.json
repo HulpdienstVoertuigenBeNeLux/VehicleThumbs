@@ -20218,5 +20218,32 @@
     "approvedAt": "2026-07-12T14:52:11.106Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783931307825,
+    "status": "pending",
+    "submittedAt": "2026-07-13T08:28:31.083Z",
+    "submittedBy": null,
+    "copyrightName": "Hulpdienstvoertuigenbenelux",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "06-6362",
+      "type": "Motorspuitaanhanger",
+      "locatie": "Lichtenvoorde",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783931307340_2606.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783931307825/vehicle_1783931307340_2606.webp",
+        "size": 1370726
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
