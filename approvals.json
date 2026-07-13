@@ -20299,5 +20299,37 @@
     "approvedAt": "2026-07-13T14:20:09.129Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783952887090,
+    "status": "pending",
+    "submittedAt": "2026-07-13T14:28:10.882Z",
+    "submittedBy": {
+      "discordId": "469780601516326914",
+      "username": "112_22vrbzo_p2001",
+      "globalName": "112_22VRBZO_P2001",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/469780601516326914/392d42619c08d833aef134856b326ef8.png"
+    },
+    "copyrightName": "Hulpdiensten_22",
+    "vehicleData": {
+      "kenteken": "BP-TL-84",
+      "roepnummer": "22-5183",
+      "type": "Adembescherming voertuig",
+      "locatie": "Geldrop",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783952886202_7834.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783952887090/vehicle_1783952886202_7834.webp",
+        "size": 1637028
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
