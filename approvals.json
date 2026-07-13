@@ -20248,5 +20248,32 @@
     "approvedAt": "2026-07-13T08:28:52.459Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783948709013,
+    "status": "pending",
+    "submittedAt": "2026-07-13T13:18:29.461Z",
+    "submittedBy": null,
+    "copyrightName": "TEST",
+    "vehicleData": {
+      "kenteken": "08-SLT-4",
+      "roepnummer": "01-1001",
+      "type": "Dienstauto",
+      "locatie": "Grootegast",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783948708124_9140.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783948709013/vehicle_1783948708124_9140.webp",
+        "size": 268598
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
