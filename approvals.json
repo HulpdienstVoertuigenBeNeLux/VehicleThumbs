@@ -20506,7 +20506,7 @@
         "thumbSha": "a27297652641dbcb4bae1b5d72c43eaa0fe79d4e"
       }
     ],
-    "approvedAt": "2026-07-13T14:36:25.011Z",
+    "approvedAt": "2026-07-13T14:36:26.772Z",
     "rejectedAt": null,
     "rejectReason": null
   },
@@ -20547,7 +20547,7 @@
   },
   {
     "id": 1783953070479,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-13T14:31:14.845Z",
     "submittedBy": {
       "discordId": "469780601516326914",
@@ -20565,15 +20565,18 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1783953069912_3099.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783953070479/vehicle_1783953069912_3099.webp",
-        "size": 2010726
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/22-5282-78-BHR-1.webp",
+        "path": "vehicles/22-5282-78-BHR-1.webp",
+        "sha": "5c3ed9b70a28e8b19e56c0fe3fe64ebf0683fe1e",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/22-5282-78-BHR-1_thumb.webp",
+        "thumbPath": "22-5282-78-BHR-1_thumb.webp",
+        "thumbSha": "5ce502bff30e6c0f7f260cb54f7994f8c754ff30"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-13T14:36:35.455Z",
     "rejectedAt": null,
     "rejectReason": null
   },
