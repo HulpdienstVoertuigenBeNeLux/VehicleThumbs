@@ -21066,36 +21066,6 @@
     "rejectReason": null
   },
   {
-    "id": 1783954071480,
-    "status": "approved",
-    "submittedAt": "2026-07-13T14:47:56.283Z",
-    "submittedBy": null,
-    "copyrightName": "kobeblw",
-    "vehicleData": {
-      "kenteken": "",
-      "roepnummer": "L12",
-      "type": "Ladderwagen",
-      "locatie": "Diest",
-      "hulpdienst": "Brandweer",
-      "land": "BE",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/L12-unknown.webp",
-        "path": "vehicles/L12-unknown.webp",
-        "sha": "09dbee71016e22b32f200e0f282d7ddf24654942",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/L12-unknown_thumb.webp",
-        "thumbPath": "L12-unknown_thumb.webp",
-        "thumbSha": "476365bda83d74f2fb75db01d5fe93d048af4901"
-      }
-    ],
-    "approvedAt": "2026-07-13T14:48:25.237Z",
-    "rejectedAt": null,
-    "rejectReason": null
-  },
-  {
     "id": 1783954293678,
     "status": "pending",
     "submittedAt": "2026-07-13T14:51:36.942Z",
