@@ -21408,5 +21408,229 @@
     "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1783960669752,
+    "status": "pending",
+    "submittedAt": "2026-07-13T16:37:57.577Z",
+    "submittedBy": {
+      "discordId": "922539162937204747",
+      "username": "joemama4925",
+      "globalName": "politie agent joe mama",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/922539162937204747/8039782acc7fa3f3d13a434e2f949477.png"
+    },
+    "copyrightName": "Nigel Beck[112.spotter_020]",
+    "vehicleData": {
+      "kenteken": "BB-604-Z",
+      "roepnummer": "13-2431",
+      "type": "Tankautospuit",
+      "locatie": "Amsterdam Teunis",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783960668912_2038.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783960669752/vehicle_1783960668912_2038.webp",
+        "size": 2112824
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783960678477,
+    "status": "pending",
+    "submittedAt": "2026-07-13T16:38:05.509Z",
+    "submittedBy": {
+      "discordId": "922539162937204747",
+      "username": "joemama4925",
+      "globalName": "politie agent joe mama",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/922539162937204747/8039782acc7fa3f3d13a434e2f949477.png"
+    },
+    "copyrightName": "Nigel Beck[112.spotter_020]",
+    "vehicleData": {
+      "kenteken": "34-BPX-5",
+      "roepnummer": "13-2451",
+      "type": "Autoladder",
+      "locatie": "Amsterdam Teunis",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783960677577_6592.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783960678477/vehicle_1783960677577_6592.webp",
+        "size": 1630832
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783960686083,
+    "status": "pending",
+    "submittedAt": "2026-07-13T16:38:14.147Z",
+    "submittedBy": {
+      "discordId": "922539162937204747",
+      "username": "joemama4925",
+      "globalName": "politie agent joe mama",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/922539162937204747/8039782acc7fa3f3d13a434e2f949477.png"
+    },
+    "copyrightName": "Nigel Beck[112.spotter_020]",
+    "vehicleData": {
+      "kenteken": "76-BPV-4",
+      "roepnummer": "13-2471",
+      "type": "Hulpverleningsvoertuig met kraan",
+      "locatie": "Amsterdam Teunis",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783960685509_6442.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783960686083/vehicle_1783960685509_6442.webp",
+        "size": 3103480
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783960694838,
+    "status": "pending",
+    "submittedAt": "2026-07-13T16:38:22.354Z",
+    "submittedBy": {
+      "discordId": "922539162937204747",
+      "username": "joemama4925",
+      "globalName": "politie agent joe mama",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/922539162937204747/8039782acc7fa3f3d13a434e2f949477.png"
+    },
+    "copyrightName": "Nigel Beck[112.spotter_020]",
+    "vehicleData": {
+      "kenteken": "63-BKT-8",
+      "roepnummer": "13-2651",
+      "type": "Autoladder",
+      "locatie": "Amsterdam Pieter",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783960694147_9151.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783960694838/vehicle_1783960694147_9151.webp",
+        "size": 2706604
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783960702905,
+    "status": "pending",
+    "submittedAt": "2026-07-13T16:38:28.798Z",
+    "submittedBy": {
+      "discordId": "922539162937204747",
+      "username": "joemama4925",
+      "globalName": "politie agent joe mama",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/922539162937204747/8039782acc7fa3f3d13a434e2f949477.png"
+    },
+    "copyrightName": "Nigel Beck[112.spotter_020]",
+    "vehicleData": {
+      "kenteken": "BV-SN-57",
+      "roepnummer": "12-4030",
+      "type": "Tankautospuit",
+      "locatie": "Halfweg Zwanenburg",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783960702354_8011.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783960702905/vehicle_1783960702354_8011.webp",
+        "size": 808268
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783960709655,
+    "status": "pending",
+    "submittedAt": "2026-07-13T16:38:37.523Z",
+    "submittedBy": {
+      "discordId": "922539162937204747",
+      "username": "joemama4925",
+      "globalName": "politie agent joe mama",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/922539162937204747/8039782acc7fa3f3d13a434e2f949477.png"
+    },
+    "copyrightName": "Nigel Beck[112.spotter_020]",
+    "vehicleData": {
+      "kenteken": "16-BTP-7",
+      "roepnummer": "12-9231",
+      "type": "Tankautospuit",
+      "locatie": "Schiphol Sloten",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783960708798_5507.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783960709655/vehicle_1783960708798_5507.webp",
+        "size": 2205634
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1783960717734,
+    "status": "pending",
+    "submittedAt": "2026-07-13T16:38:45.188Z",
+    "submittedBy": {
+      "discordId": "922539162937204747",
+      "username": "joemama4925",
+      "globalName": "politie agent joe mama",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/922539162937204747/8039782acc7fa3f3d13a434e2f949477.png"
+    },
+    "copyrightName": "Nigel Beck[112.spotter_020]",
+    "vehicleData": {
+      "kenteken": "09-BZB-8",
+      "roepnummer": "13-3331",
+      "type": "Tankautospuit",
+      "locatie": "Amsterdam Hendrik",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1783960717523_4474.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1783960717734/vehicle_1783960717523_4474.webp",
+        "size": 1518174
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
