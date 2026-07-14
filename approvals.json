@@ -21272,7 +21272,7 @@
   },
   {
     "id": 1784013711561,
-    "status": "pending",
+    "status": "rejected",
     "submittedAt": "2026-07-14T07:21:51.227Z",
     "submittedBy": {
       "discordId": "1371070091550134293",
@@ -21299,7 +21299,7 @@
     ],
     "githubUrls": null,
     "approvedAt": null,
-    "rejectedAt": null,
-    "rejectReason": null
+    "rejectedAt": "2026-07-14T11:00:38.358Z",
+    "rejectReason": ""
   }
 ]
