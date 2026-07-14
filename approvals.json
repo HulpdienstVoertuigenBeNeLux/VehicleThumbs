@@ -21271,40 +21271,8 @@
     "rejectReason": null
   },
   {
-    "id": 1784013711561,
-    "status": "rejected",
-    "submittedAt": "2026-07-14T07:21:51.227Z",
-    "submittedBy": {
-      "discordId": "1371070091550134293",
-      "username": "xraxyyy.",
-      "globalName": "xRaxyyy",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1371070091550134293/30275c43252596e2a6990996a5901fb9.png"
-    },
-    "copyrightName": "",
-    "vehicleData": {
-      "kenteken": "ZB-105-K",
-      "roepnummer": "01-1003",
-      "type": "Dienstbus",
-      "locatie": "Leek",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [
-      {
-        "filename": "vehicle_1784013711008_8097.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784013711561/vehicle_1784013711008_8097.webp",
-        "size": 98586
-      }
-    ],
-    "githubUrls": null,
-    "approvedAt": null,
-    "rejectedAt": "2026-07-14T07:23:53.626Z",
-    "rejectReason": ""
-  },
-  {
     "id": 1784014425718,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-14T07:33:45.660Z",
     "submittedBy": {
       "discordId": "1371070091550134293",
@@ -21322,15 +21290,18 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1784014424180_7323.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784014425718/vehicle_1784014424180_7323.webp",
-        "size": 428590
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/01-1003-ZB-105-K.webp",
+        "path": "vehicles/01-1003-ZB-105-K.webp",
+        "sha": "4b1071a1bd0d806bec3fd5e4779b2cfa007b2ab4",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/01-1003-ZB-105-K_thumb.webp",
+        "thumbPath": "01-1003-ZB-105-K_thumb.webp",
+        "thumbSha": "7efa953e51d61433505c330deed616231c5e6215"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-14T07:34:09.652Z",
     "rejectedAt": null,
     "rejectReason": null,
     "replacesId": "1784013711561"
