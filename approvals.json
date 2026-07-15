@@ -21228,5 +21228,167 @@
     "approvedAt": "2026-07-13T18:41:35.007Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1784137633785,
+    "status": "pending",
+    "submittedAt": "2026-07-15T17:47:13.372Z",
+    "submittedBy": null,
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "92-ZTP-6",
+      "roepnummer": "GEEN",
+      "type": "Dienstauto regionale ambulancevoorziening",
+      "locatie": "Vroomshoop",
+      "hulpdienst": "Ambulance",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784137633022_2764.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137633785/vehicle_1784137633022_2764.webp",
+        "size": 63192
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784137634265,
+    "status": "pending",
+    "submittedAt": "2026-07-15T17:47:13.539Z",
+    "submittedBy": null,
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "GKV-38-R",
+      "roepnummer": "01-130",
+      "type": "Ambulance hoogcomplexe zorg",
+      "locatie": "Groningen Zuid",
+      "hulpdienst": "Ambulance",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784137633372_1737.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137634265/vehicle_1784137633372_1737.webp",
+        "size": 33698
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784137634461,
+    "status": "pending",
+    "submittedAt": "2026-07-15T17:47:13.694Z",
+    "submittedBy": null,
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "K-966-PL",
+      "roepnummer": "01-206",
+      "type": "Ambulance middencomplexe zorg",
+      "locatie": "Groningen Zuid",
+      "hulpdienst": "Ambulance",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784137633539_1348.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137634461/vehicle_1784137633539_1348.webp",
+        "size": 42726
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784137634304,
+    "status": "pending",
+    "submittedAt": "2026-07-15T17:47:13.921Z",
+    "submittedBy": null,
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "HB-995-L",
+      "roepnummer": "01-509",
+      "type": "Regionale ambulancevoorziening voertuig",
+      "locatie": "Groningen Zuid",
+      "hulpdienst": "Ambulance",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784137633694_682.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137634304/vehicle_1784137633694_682.webp",
+        "size": 50592
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784137633949,
+    "status": "pending",
+    "submittedAt": "2026-07-15T17:47:14.176Z",
+    "submittedBy": null,
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "HB-046-N",
+      "roepnummer": "01-707",
+      "type": "Huisarts voertuig",
+      "locatie": "Groningen Zuid",
+      "hulpdienst": "Ambulance",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784137633921_8082.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137633949/vehicle_1784137633921_8082.webp",
+        "size": 58032
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784137634277,
+    "status": "pending",
+    "submittedAt": "2026-07-15T17:47:14.342Z",
+    "submittedBy": null,
+    "copyrightName": "Kor Heidinga",
+    "vehicleData": {
+      "kenteken": "HFX-70-Z",
+      "roepnummer": "03-201",
+      "type": "Ambulance middencomplexe zorg",
+      "locatie": "Assen",
+      "hulpdienst": "Ambulance",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784137634176_4605.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137634277/vehicle_1784137634176_4605.webp",
+        "size": 42972
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
