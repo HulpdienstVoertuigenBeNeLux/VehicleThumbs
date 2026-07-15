@@ -21410,36 +21410,6 @@
     "rejectReason": null
   },
   {
-    "id": 1784137934800,
-    "status": "approved",
-    "submittedAt": "2026-07-15T17:52:14.256Z",
-    "submittedBy": null,
-    "copyrightName": "Hulpdienstvoertuigenbenelux",
-    "vehicleData": {
-      "kenteken": "JSN-92-B",
-      "roepnummer": "VBK-12",
-      "type": "Dienstbus",
-      "locatie": "Vakbekwaamheid/Breevaartstraat",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/VBK-12-JSN-92-B.webp",
-        "path": "vehicles/VBK-12-JSN-92-B.webp",
-        "sha": "f658f79512087b9a810fb6fc9e9ed02da34d1fb2",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/VBK-12-JSN-92-B_thumb.webp",
-        "thumbPath": "VBK-12-JSN-92-B_thumb.webp",
-        "thumbSha": "c2575f134f26b3058e2d931a738ab985074d13e4"
-      }
-    ],
-    "approvedAt": "2026-07-15T17:52:36.838Z",
-    "rejectedAt": null,
-    "rejectReason": null
-  },
-  {
     "id": 1784137935054,
     "status": "approved",
     "submittedAt": "2026-07-15T17:52:14.589Z",
