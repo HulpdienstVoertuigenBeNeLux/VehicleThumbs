@@ -21410,36 +21410,6 @@
     "rejectReason": null
   },
   {
-    "id": 1784137935057,
-    "status": "approved",
-    "submittedAt": "2026-07-15T17:52:15.214Z",
-    "submittedBy": null,
-    "copyrightName": "Hulpdienstvoertuigenbenelux",
-    "vehicleData": {
-      "kenteken": "BS-DJ-36",
-      "roepnummer": "17-9334",
-      "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
-      "locatie": "Vakbekwaamheid/Breevaartstraat",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/17-9334-BS-DJ-36.webp",
-        "path": "vehicles/17-9334-BS-DJ-36.webp",
-        "sha": "7a6d84dd4a7cf47444d1f4200716dc25a2ee3b81",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/17-9334-BS-DJ-36_thumb.webp",
-        "thumbPath": "17-9334-BS-DJ-36_thumb.webp",
-        "thumbSha": "6f8f72bd71471e3c30fbd2406828c07b493bc6b1"
-      }
-    ],
-    "approvedAt": "2026-07-15T17:52:24.832Z",
-    "rejectedAt": null,
-    "rejectReason": null
-  },
-  {
     "id": 1784137936192,
     "status": "approved",
     "submittedAt": "2026-07-15T17:52:15.553Z",
