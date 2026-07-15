@@ -21,6 +21,11 @@ def get_discord_id(item: dict) -> int | None:
 		return None
 
 
+def is_approved_item(item: dict) -> bool:
+	status = str(item.get("status", "")).strip().lower()
+	return status == "approved" and item.get("approvedAt") is not None
+
+
 def main() -> int:
 	try:
 		with APPROVALS_FILE.open("r", encoding="utf-8") as f:
@@ -34,7 +39,7 @@ def main() -> int:
 
 	counts = Counter()
 	for item in approvals:
-		if item.get("status") != "approved":
+		if not is_approved_item(item):
 			continue
 
 		discord_id = get_discord_id(item)
