@@ -21301,5 +21301,37 @@
     "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1784145394447,
+    "status": "pending",
+    "submittedAt": "2026-07-15T19:56:39.058Z",
+    "submittedBy": {
+      "discordId": "469780601516326914",
+      "username": "112_22vrbzo_p2001",
+      "globalName": "112_22VRBZO_P2001",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/469780601516326914/392d42619c08d833aef134856b326ef8.png"
+    },
+    "copyrightName": "Hulpdiensten_22",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "22-5164",
+      "type": "Watertankhaakarmbak",
+      "locatie": "Heeze",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784145394377_1492.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784145394447/vehicle_1784145394377_1492.webp",
+        "size": 1769794
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
