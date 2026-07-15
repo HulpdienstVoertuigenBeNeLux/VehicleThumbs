@@ -21381,7 +21381,7 @@
   },
   {
     "id": 1784137634277,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-15T17:47:14.342Z",
     "submittedBy": null,
     "copyrightName": "Kor Heidinga",
@@ -21394,15 +21394,18 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1784137634176_4605.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137634277/vehicle_1784137634176_4605.webp",
-        "size": 42972
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/03-201-HFX-70-Z.webp",
+        "path": "vehicles/03-201-HFX-70-Z.webp",
+        "sha": "e1584cbaa6531eabd0f849fb7001ae83ef2990b6",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/03-201-HFX-70-Z_thumb.webp",
+        "thumbPath": "03-201-HFX-70-Z_thumb.webp",
+        "thumbSha": "637e67d78d875fc29c687d6146684c06087a5462"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-15T17:48:06.618Z",
     "rejectedAt": null,
     "rejectReason": null
   }
