@@ -20161,41 +20161,6 @@
     "rejectReason": null
   },
   {
-    "id": 1783953083753,
-    "status": "approved",
-    "submittedAt": "2026-07-13T14:31:27.391Z",
-    "submittedBy": {
-      "discordId": "469780601516326914",
-      "username": "112_22vrbzo_p2001",
-      "globalName": "112_22VRBZO_P2001",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/469780601516326914/392d42619c08d833aef134856b326ef8.png"
-    },
-    "copyrightName": "Hulpdiensten_22",
-    "vehicleData": {
-      "kenteken": "GEEN",
-      "roepnummer": "22-5164",
-      "type": "Watertankhaakarmbak",
-      "locatie": "Heeze",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/22-5164-GEEN.webp",
-        "path": "vehicles/22-5164-GEEN.webp",
-        "sha": "d836500833143f15f6bd57de76378862f7d0acc0",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/22-5164-GEEN_thumb.webp",
-        "thumbPath": "22-5164-GEEN_thumb.webp",
-        "thumbSha": "4a93bbf072d347bd45371874780558646666529c"
-      }
-    ],
-    "approvedAt": "2026-07-13T14:36:43.188Z",
-    "rejectedAt": null,
-    "rejectReason": null
-  },
-  {
     "id": 1783953098432,
     "status": "approved",
     "submittedAt": "2026-07-13T14:31:42.901Z",
@@ -21334,6 +21299,550 @@
       }
     ],
     "approvedAt": "2026-07-15T20:05:20.006Z",
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151139781,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:32:24.866Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "PH-683-N",
+      "roepnummer": "18-546",
+      "type": "Dienstauto regionale ambulancevoorziening",
+      "locatie": "Klaaswaal",
+      "hulpdienst": "Ambulance",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151139002_3755.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151139781/vehicle_1784151139002_3755.webp",
+        "size": 1142494
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151144919,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:32:30.996Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "31-BBH-1",
+      "roepnummer": "18-9680",
+      "type": "Haakarmvoertuig met kraan",
+      "locatie": "Regionaal/Dordrecht Leerpark",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151144866_244.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151144919/vehicle_1784151144866_244.webp",
+        "size": 1094402
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151151019,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:32:36.688Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "TV-152-N",
+      "roepnummer": "18-9606",
+      "type": "Dienstauto",
+      "locatie": "Gorinchem",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151150996_5298.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151151019/vehicle_1784151150996_5298.webp",
+        "size": 757908
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151157060,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:32:41.616Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "XD-986-J",
+      "roepnummer": "18-802",
+      "type": "Officier van dienst geneeskundige zorg Zuid-West",
+      "locatie": "Dordrecht",
+      "hulpdienst": "Ambulance",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151156688_5328.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151157060/vehicle_1784151156688_5328.webp",
+        "size": 600448
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151162458,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:32:47.311Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "18-7381",
+      "type": "Brandstoftankaanhanger",
+      "locatie": "Groot Ammers",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151161616_7237.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151162458/vehicle_1784151161616_7237.webp",
+        "size": 1011530
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151167529,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:32:52.849Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "VN-531-H",
+      "roepnummer": "18-9482",
+      "type": "Technische dienst",
+      "locatie": "Regionaal/Dordrecht Leerpark",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151167311_5902.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151167529/vehicle_1784151167311_5902.webp",
+        "size": 964102
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151172967,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:32:58.122Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "5-KGL-56",
+      "roepnummer": "18-7021",
+      "type": "Verkenningsvoertuig IBGS",
+      "locatie": "Sliedrecht",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151172849_3162.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151172967/vehicle_1784151172849_3162.webp",
+        "size": 674598
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151178191,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:03.872Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "31-BTV-6",
+      "roepnummer": "17-4932",
+      "type": "Tankautospuit 4 mans bezetting",
+      "locatie": "Den Bommel Dagdienst",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151178122_1760.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151178191/vehicle_1784151178122_1760.webp",
+        "size": 689004
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151184109,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:09.393Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "ZK-168-B",
+      "roepnummer": "18-9608",
+      "type": "Dienstauto",
+      "locatie": "Regionaal/Dordrecht Leerpark",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151183872_808.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151184109/vehicle_1784151183872_808.webp",
+        "size": 956740
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151189620,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:14.495Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "78-BGJ-6",
+      "roepnummer": "18-5531",
+      "type": "Tankautospuit",
+      "locatie": "Numansdorp",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151189393_6253.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151189620/vehicle_1784151189393_6253.webp",
+        "size": 657326
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151195206,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:19.196Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "RV-314-P",
+      "roepnummer": "18-9491",
+      "type": "Officier van dienst Brandweer",
+      "locatie": "Regionaal/Dordrecht Leerpark",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151194495_3798.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151195206/vehicle_1784151194495_3798.webp",
+        "size": 1363868
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151199868,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:24.365Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "01-BDN-3",
+      "roepnummer": "18-9438",
+      "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
+      "locatie": "Regionaal/Dordrecht Leerpark",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151199196_5993.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151199868/vehicle_1784151199196_5993.webp",
+        "size": 1925854
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151205119,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:28.168Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "48-BKH-1",
+      "roepnummer": "10-5932",
+      "type": "Tankautospuit",
+      "locatie": "Cocksdorp",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151204365_5259.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151205119/vehicle_1784151204365_5259.webp",
+        "size": 1053740
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151208687,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:32.416Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "70-BSK-1",
+      "roepnummer": "25-5231",
+      "type": "Tankautospuit",
+      "locatie": "Lelystad Airport",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151208168_7424.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151208687/vehicle_1784151208168_7424.webp",
+        "size": 1777814
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151213415,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:32.552Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "63-BZJ-9",
+      "roepnummer": "18-9798",
+      "type": "Commando voertuig multidisciplinair",
+      "locatie": "s-Gravendeel",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151212416_947.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151213415/vehicle_1784151212416_947.webp",
+        "size": 31254
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151213402,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:38.268Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "GEEN",
+      "roepnummer": "18-7182",
+      "type": "Verzorgingshaakarmbak",
+      "locatie": "Bleskensgraaf",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151212552_7775.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151213402/vehicle_1784151212552_7775.webp",
+        "size": 506772
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784151218477,
+    "status": "pending",
+    "submittedAt": "2026-07-15T21:33:38.822Z",
+    "submittedBy": {
+      "discordId": "369864885141766145",
+      "username": "serveandstrike",
+      "globalName": "Serve and Strike",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
+    },
+    "copyrightName": "Finn H",
+    "vehicleData": {
+      "kenteken": "87-BXV-1",
+      "roepnummer": "18-6562",
+      "type": "Schuimblusvoertuig met blusarm",
+      "locatie": "Dordrecht Oranjepark",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784151218268_1029.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784151218477/vehicle_1784151218268_1029.webp",
+        "size": 275628
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
     "rejectedAt": null,
     "rejectReason": null
   }
