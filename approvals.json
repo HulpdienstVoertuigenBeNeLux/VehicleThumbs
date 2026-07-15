@@ -21231,7 +21231,7 @@
   },
   {
     "id": 1784137633785,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-15T17:47:13.372Z",
     "submittedBy": null,
     "copyrightName": "Kor Heidinga",
@@ -21244,15 +21244,18 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1784137633022_2764.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137633785/vehicle_1784137633022_2764.webp",
-        "size": 63192
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-92-ZTP-6.webp",
+        "path": "vehicles/GEEN-92-ZTP-6.webp",
+        "sha": "7ddc587da11a66b850b01709e5494919b0f86165",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-92-ZTP-6_thumb.webp",
+        "thumbPath": "GEEN-92-ZTP-6_thumb.webp",
+        "thumbSha": "ce2c9feb0903c48b781304bcad1204a3761559dc"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-15T17:47:47.730Z",
     "rejectedAt": null,
     "rejectReason": null
   },
