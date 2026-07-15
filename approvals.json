@@ -21410,36 +21410,6 @@
     "rejectReason": null
   },
   {
-    "id": 1784137933839,
-    "status": "approved",
-    "submittedAt": "2026-07-15T17:52:13.932Z",
-    "submittedBy": null,
-    "copyrightName": "Hulpdienstvoertuigenbenelux",
-    "vehicleData": {
-      "kenteken": "JSN-94-B",
-      "roepnummer": "VBK-11",
-      "type": "Dienstbus",
-      "locatie": "Vakbekwaamheid/Breevaartstraat",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/VBK-11-JSN-94-B.webp",
-        "path": "vehicles/VBK-11-JSN-94-B.webp",
-        "sha": "bafe29c383632cdce6af6927cfbdeb038899d604",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/VBK-11-JSN-94-B_thumb.webp",
-        "thumbPath": "VBK-11-JSN-94-B_thumb.webp",
-        "thumbSha": "2c98fdd5241a205697aabe49ede5bcfe382de58d"
-      }
-    ],
-    "approvedAt": "2026-07-15T17:52:44.732Z",
-    "rejectedAt": null,
-    "rejectReason": null
-  },
-  {
     "id": 1784137934800,
     "status": "approved",
     "submittedAt": "2026-07-15T17:52:14.256Z",
