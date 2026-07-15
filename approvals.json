@@ -21410,36 +21410,6 @@
     "rejectReason": null
   },
   {
-    "id": 1784137934892,
-    "status": "approved",
-    "submittedAt": "2026-07-15T17:52:14.903Z",
-    "submittedBy": null,
-    "copyrightName": "Hulpdienstvoertuigenbenelux",
-    "vehicleData": {
-      "kenteken": "JJL-04-R",
-      "roepnummer": "GEEN",
-      "type": "Dienstauto",
-      "locatie": "Regionaal/Wilhelminakade",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/GEEN-JJL-04-R.webp",
-        "path": "vehicles/GEEN-JJL-04-R.webp",
-        "sha": "6fbc30ee0ef36f7119ee3150d2f038101df3e831",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/GEEN-JJL-04-R_thumb.webp",
-        "thumbPath": "GEEN-JJL-04-R_thumb.webp",
-        "thumbSha": "19ebc48de0717266b9cd30e3f049a773a2b8ca6e"
-      }
-    ],
-    "approvedAt": "2026-07-15T17:52:28.393Z",
-    "rejectedAt": null,
-    "rejectReason": null
-  },
-  {
     "id": 1784137935057,
     "status": "approved",
     "submittedAt": "2026-07-15T17:52:15.214Z",
