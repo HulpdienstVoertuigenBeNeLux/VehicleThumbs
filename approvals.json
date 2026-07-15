@@ -21858,40 +21858,5 @@
     "approvedAt": "2026-07-15T21:51:52.069Z",
     "rejectedAt": null,
     "rejectReason": null
-  },
-  {
-    "id": 1784151218477,
-    "status": "approved",
-    "submittedAt": "2026-07-15T21:33:38.822Z",
-    "submittedBy": {
-      "discordId": "369864885141766145",
-      "username": "serveandstrike",
-      "globalName": "Serve and Strike",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/369864885141766145/17a56541a1e4c295ecb491817004d66f.png"
-    },
-    "copyrightName": "Finn H",
-    "vehicleData": {
-      "kenteken": "87-BXV-1",
-      "roepnummer": "18-6562",
-      "type": "Schuimblusvoertuig met blusarm",
-      "locatie": "Dordrecht Oranjepark",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/18-6562-87-BXV-1.webp",
-        "path": "vehicles/18-6562-87-BXV-1.webp",
-        "sha": "32ffda003069fd8816faea302d9d2d18e666976a",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/18-6562-87-BXV-1_thumb.webp",
-        "thumbPath": "18-6562-87-BXV-1_thumb.webp",
-        "thumbSha": "11e72274c6e5612356f2c04a0136fe40dad899e1"
-      }
-    ],
-    "approvedAt": "2026-07-15T21:51:55.940Z",
-    "rejectedAt": null,
-    "rejectReason": null
   }
 ]
