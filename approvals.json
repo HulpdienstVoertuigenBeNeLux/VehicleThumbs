@@ -21438,7 +21438,7 @@
   },
   {
     "id": 1784137933839,
-    "status": "pending",
+    "status": "approved",
     "submittedAt": "2026-07-15T17:52:13.932Z",
     "submittedBy": null,
     "copyrightName": "Hulpdienstvoertuigenbenelux",
@@ -21451,15 +21451,18 @@
       "land": "NL",
       "imageCount": 1
     },
-    "images": [
+    "images": [],
+    "githubUrls": [
       {
-        "filename": "vehicle_1784137933533_3606.webp",
-        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784137933839/vehicle_1784137933533_3606.webp",
-        "size": 63998
+        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/VBK-11-JSN-94-B.webp",
+        "path": "vehicles/VBK-11-JSN-94-B.webp",
+        "sha": "bafe29c383632cdce6af6927cfbdeb038899d604",
+        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/VBK-11-JSN-94-B_thumb.webp",
+        "thumbPath": "VBK-11-JSN-94-B_thumb.webp",
+        "thumbSha": "2c98fdd5241a205697aabe49ede5bcfe382de58d"
       }
     ],
-    "githubUrls": null,
-    "approvedAt": null,
+    "approvedAt": "2026-07-15T17:52:44.732Z",
     "rejectedAt": null,
     "rejectReason": null
   },
