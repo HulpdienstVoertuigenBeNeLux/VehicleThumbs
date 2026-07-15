@@ -21410,36 +21410,6 @@
     "rejectReason": null
   },
   {
-    "id": 1784137935054,
-    "status": "approved",
-    "submittedAt": "2026-07-15T17:52:14.589Z",
-    "submittedBy": null,
-    "copyrightName": "Hulpdienstvoertuigenbenelux",
-    "vehicleData": {
-      "kenteken": "JLZ-07-K",
-      "roepnummer": "VBK-06",
-      "type": "Dienstauto",
-      "locatie": "Vakbekwaamheid/Breevaartstraat",
-      "hulpdienst": "Brandweer",
-      "land": "NL",
-      "imageCount": 1
-    },
-    "images": [],
-    "githubUrls": [
-      {
-        "url": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/VBK-06-JLZ-07-K.webp",
-        "path": "vehicles/VBK-06-JLZ-07-K.webp",
-        "sha": "4923f05fd58308d9fabef21025485bac0a17c7b4",
-        "thumbUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleThumbs/main/VBK-06-JLZ-07-K_thumb.webp",
-        "thumbPath": "VBK-06-JLZ-07-K_thumb.webp",
-        "thumbSha": "1107a297527c52440f257b5fce32f445653931f0"
-      }
-    ],
-    "approvedAt": "2026-07-15T17:52:32.731Z",
-    "rejectedAt": null,
-    "rejectReason": null
-  },
-  {
     "id": 1784137934892,
     "status": "approved",
     "submittedAt": "2026-07-15T17:52:14.903Z",
