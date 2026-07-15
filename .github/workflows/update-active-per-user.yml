@@ -1,0 +1,39 @@
+name: Update Active Per User
+
+on:
+  push:
+    paths:
+      - approvals.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate active_per_user.json
+        run: python discord/genarate_active_per_user.py
+
+      - name: Commit updated active_per_user.json
+        run: |
+          if git diff --quiet -- discord/active_per_user.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add discord/active_per_user.json
+          git commit -m "chore: update active_per_user.json"
+          git push
