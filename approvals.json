@@ -21408,5 +21408,194 @@
     "approvedAt": "2026-07-15T17:48:06.618Z",
     "rejectedAt": null,
     "rejectReason": null
+  },
+  {
+    "id": 1784139014652,
+    "status": "pending",
+    "submittedAt": "2026-07-15T18:10:15.157Z",
+    "submittedBy": null,
+    "copyrightName": "Hulpdienstvoertuigenbenelux",
+    "vehicleData": {
+      "kenteken": "BZ-HH-50",
+      "roepnummer": "17-9392",
+      "type": "Haakarmvoertuig",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784139014290_9634.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784139014652/vehicle_1784139014290_9634.webp",
+        "size": 235524
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784139015312,
+    "status": "pending",
+    "submittedAt": "2026-07-15T18:10:16.076Z",
+    "submittedBy": null,
+    "copyrightName": "Hulpdienstvoertuigenbenelux",
+    "vehicleData": {
+      "kenteken": "JSN-94-B",
+      "roepnummer": "VBK-11",
+      "type": "Dienstbus",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784139015157_6531.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784139015312/vehicle_1784139015157_6531.webp",
+        "size": 182526
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784139016589,
+    "status": "pending",
+    "submittedAt": "2026-07-15T18:10:16.914Z",
+    "submittedBy": null,
+    "copyrightName": "Hulpdienstvoertuigenbenelux",
+    "vehicleData": {
+      "kenteken": "BT-BT-41",
+      "roepnummer": "17-9336",
+      "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784139016076_9944.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784139016589/vehicle_1784139016076_9944.webp",
+        "size": 262522
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784139017906,
+    "status": "pending",
+    "submittedAt": "2026-07-15T18:10:17.726Z",
+    "submittedBy": null,
+    "copyrightName": "Hulpdienstvoertuigenbenelux",
+    "vehicleData": {
+      "kenteken": "JJL-04-R",
+      "roepnummer": "GEEN",
+      "type": "Dienstauto",
+      "locatie": "Regionaal/Wilhelminakade",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784139016914_3772.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784139017906/vehicle_1784139016914_3772.webp",
+        "size": 127022
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784139018316,
+    "status": "pending",
+    "submittedAt": "2026-07-15T18:10:18.624Z",
+    "submittedBy": null,
+    "copyrightName": "Hulpdienstvoertuigenbenelux",
+    "vehicleData": {
+      "kenteken": "BS-DJ-36",
+      "roepnummer": "17-9334",
+      "type": "Tankautospuit t.b.v. opleiding, training en oefenen",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784139017726_3927.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784139018316/vehicle_1784139017726_3927.webp",
+        "size": 230530
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784139018926,
+    "status": "pending",
+    "submittedAt": "2026-07-15T18:10:19.416Z",
+    "submittedBy": null,
+    "copyrightName": "Hulpdienstvoertuigenbenelux",
+    "vehicleData": {
+      "kenteken": "JSN-92-B",
+      "roepnummer": "VBK-12",
+      "type": "Dienstbus",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784139018624_4604.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784139018926/vehicle_1784139018624_4604.webp",
+        "size": 172972
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
+  },
+  {
+    "id": 1784139019946,
+    "status": "pending",
+    "submittedAt": "2026-07-15T18:10:20.321Z",
+    "submittedBy": null,
+    "copyrightName": "Hulpdienstvoertuigenbenelux",
+    "vehicleData": {
+      "kenteken": "JLZ-07-K",
+      "roepnummer": "VBK-06",
+      "type": "Dienstauto",
+      "locatie": "Vakbekwaamheid/Breevaartstraat",
+      "hulpdienst": "Brandweer",
+      "land": "NL",
+      "imageCount": 1
+    },
+    "images": [
+      {
+        "filename": "vehicle_1784139019416_9582.webp",
+        "path": "/home/sq123685/domains/hulpdienstvoertuigenbenelux.nl/uploads/1784139019946/vehicle_1784139019416_9582.webp",
+        "size": 174998
+      }
+    ],
+    "githubUrls": null,
+    "approvedAt": null,
+    "rejectedAt": null,
+    "rejectReason": null
   }
 ]
